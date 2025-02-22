@@ -1,0 +1,798 @@
+id,created_at,text
+1245414938807418880,2020-04-01 18:17:14,"b""RT @scale_AI: Scale AI's Nathan Hayflick and @danielhavir share how to train models faster with large datasets using Scale AI and PyTorch.\xe2\x80\xa6"""
+1245404438556078081,2020-04-01 17:35:31,"b""We @scale_AI collaborated with the team at @PyTorch about continual labeling-in-the-loop (using Scale's API) and st\xe2\x80\xa6 https://t.co/yRl7V1zyig"""
+1244444622853570560,2020-03-30 02:01:33,b'Narrative violation https://t.co/XLfmAWWrac'
+1242977368374829056,2020-03-26 00:51:12,b'@benedictevans Every @scale_AI customer is up and running and then some. We\xe2\x80\x99re helping lots of businesses with surg\xe2\x80\xa6 https://t.co/MUyVNdsuAy'
+1240827585178685440,2020-03-20 02:28:44,"b'In these tough times, I wish that food delivery platforms (@DoorDash, @UberEats, @Grubhub, @Postmates) supported ti\xe2\x80\xa6 https://t.co/A8wTVjaUuI'"
+1240010689680293888,2020-03-17 20:22:41,b'We @scale_AI are going to be offering free services to provide open datasets for COVID-19 AI research.\n\nOur mission\xe2\x80\xa6 https://t.co/gIxqAZLVks'
+1240009696930455554,2020-03-17 20:18:44,"b'RT @scale_AI: To help the efforts of COVID-19 research, Scale AI will provide free data annotation services for any researcher working on d\xe2\x80\xa6'"
+1239082336366419968,2020-03-15 06:53:44,"b'RT @pradeep24: Hiring warehouse (onsite SF) and customer support (remote) roles @farmsteadapp, delivering food to Bay Area doorsteps. Pleas\xe2\x80\xa6'"
+1238991216659681280,2020-03-15 00:51:40,"b'A reminder to founders, entrepreneurs, operators, and employees as we navigate these tough times:\n\nCompanies are in\xe2\x80\xa6 https://t.co/zN3mxVXpca'"
+1237823314443173888,2020-03-11 19:30:50,b'We @scale_AI are building data annotation infrastructure that flows like running water. https://t.co/2bjDh0IQzB'
+1237823069890080768,2020-03-11 19:29:52,b'RT @russelljkaplan: Quite impressed with my first @scale_AI data labeling job submission. Uploaded 1k image annotation tasks before going t\xe2\x80\xa6'
+1236483321498152960,2020-03-08 02:46:11,"b'Just spent a bunch of time with a serial entrepreneur who\xe2\x80\x99s starting another business.\n\nThe level of creativity, hu\xe2\x80\xa6 https://t.co/U1re06i85U'"
+1233891262811369472,2020-02-29 23:06:16,"b'I\xe2\x80\x99m always shocked by smart, young, driven people who choose a company because of \xe2\x80\x9cmentorship\xe2\x80\x9d.\n\nYes, it is good to\xe2\x80\xa6 https://t.co/dxbQnFQHnS'"
+1233810953088557056,2020-02-29 17:47:08,b'Advice for folks who do too much math and too little physics:\n\nDon\xe2\x80\x99t try to be too clever.\n\nCleverness often comes\xe2\x80\xa6 https://t.co/ufiUuABLfb'
+1232780691466637312,2020-02-26 21:33:15,"b'Sat down with the incredible @mavolpi of @IndexVentures to talk about AI, its potential, and limitations, and what\xe2\x80\xa6 https://t.co/v4NW2Z6GFH'"
+1229505088068018177,2020-02-17 20:37:10,b'First and primary role about competition: don\xe2\x80\x99t focus on competitors.\n\nEither you will accomplish something meaning\xe2\x80\xa6 https://t.co/0lZhhwbzgh'
+1226207840487931904,2020-02-08 18:15:05,"b'The *best* feeling is talking to someone who is able to articulate ideas that ring absolutely true to you, but you\xe2\x80\xa6 https://t.co/0EntHi5BOz'"
+1224587009622065152,2020-02-04 06:54:29,b'@drewhouston Congratulations!'
+1224454698461089797,2020-02-03 22:08:44,b'@scale_AI More coverage from @VentureBeat here:\n\nhttps://t.co/d5ylgAhOvQ'
+1224417922208026625,2020-02-03 19:42:35,b'We @scale_AI published a blog post to discuss the project and how excited we are about it:\n\nhttps://t.co/snmlI3sxMS'
+1224417457110020096,2020-02-03 19:40:45,"b""We worked with @UWaterloo and @UofT to open source the world's first open-source winter driving dataset.\n\nProgress\xe2\x80\xa6 https://t.co/zAroAPPjvx"""
+1223680652375019520,2020-02-01 18:52:57,"b'If you want to be a historian, go into finance.\n\nIf you want to write the future, go to a startup.\n\nFinanciers stud\xe2\x80\xa6 https://t.co/o1Mpd7D1Ts'"
+1221566887617650688,2020-01-26 22:53:36,b'Company-building is more about tactics than strategy.\n\nStrategy seems easier to apply because it simplifies complex\xe2\x80\xa6 https://t.co/0BpFIjj4AA'
+1219296073631461379,2020-01-20 16:30:12,"b""The secret to great writing is clear thinking. There aren't many other secrets."""
+1218665295524450304,2020-01-18 22:43:42,"b""There's nothing quite like the magic of a small team, perfectly aligned in accomplishing the slightly impossible.\xe2\x80\xa6 https://t.co/ZRmP4hSmGJ"""
+1215811429330116608,2020-01-11 01:43:28,b'Uber should make a feature to allow riders to select the route.\n\nThe amount of frustration from arguing with your U\xe2\x80\xa6 https://t.co/zHvpwZp8iz'
+1215470526526709760,2020-01-10 03:08:50,b'@rabois Describing the mechanism. Desperation breeds innovation because people become irrationally risk-seeking.'
+1215454502981009408,2020-01-10 02:05:10,"b""Super interesting cognitive bias from Kanneman's work:\n\nWhen all the options are good, people are risk-averse.\n\nWhe\xe2\x80\xa6 https://t.co/E1PZYqlf0O"""
+1214026599596728321,2020-01-06 03:31:11,"b""@tanthaip imagine if the overheads were empty and you didn't have to put your backpack in front of you"""
+1214020236388765696,2020-01-06 03:05:54,"b'Annoying local maximum of planes:\n\nBecause airlines charge for checked baggage, the ""human"" cabin of airplanes is a\xe2\x80\xa6 https://t.co/YFMVQ3ci9e'"
+1212928043343179776,2020-01-03 02:45:55,"b'I saw many modern art experiences this holiday:\n\nNM: Meow Wolf\nNYC: ARTECHOUSE, SuperReal, ZeroSpace\nParis: Atelier\xe2\x80\xa6 https://t.co/ZNRPSlkIYI'"
+1212903644053377024,2020-01-03 01:08:58,"b'@russelljkaplan Very ambitious on screen tech, unambitious elsewhere'"
+1212755628902383616,2020-01-02 15:20:48,"b'It took 22yrs for RenTech (best hedge fund ever) to go from founding to massive success\n\nIn those 22yrs, many left,\xe2\x80\xa6 https://t.co/DeaTEfxFSd'"
+1212506233866870784,2020-01-01 22:49:48,b'@JonDishotsky Waterproof iPhone already is a killer \xf0\x9f\xa4\xb7'
+1212044674665500672,2019-12-31 16:15:43,"b'At the @scale_AI holiday party, I wanted the team to remember 3 things to close the year:\n\n1. Determination breeds\xe2\x80\xa6 https://t.co/hNYsINyOJS'"
+1211864818149449728,2019-12-31 04:21:02,"b""@ilyasu Ilya you're keeping me honest! @daniel_levine's basement was a great office primarily because of the accoun\xe2\x80\xa6 https://t.co/dlZYkykO0W"""
+1211862665385201665,2019-12-31 04:12:29,b'@arram Biotech startup idea...'
+1211860125226541056,2019-12-31 04:02:23,b'@notalexlin I can imagine this'
+1211856908493238272,2019-12-31 03:49:36,b'Bit of startup advice which I rarely hear:\n\nSpend the money on a nice office.\n\nBe frugal on just about everything e\xe2\x80\xa6 https://t.co/DqVHGPDjRc'
+1211663081878806528,2019-12-30 14:59:24,"b""Specialized knowledge economies should make you suspicious because it's hard to understand everything that's going\xe2\x80\xa6 https://t.co/caXEEV2pcw"""
+1211424386282086406,2019-12-29 23:10:55,b'@pavtalk Group travel is a good one'
+1211424250764111875,2019-12-29 23:10:23,b'@briannekimmel I think college is better. Closer ties and less tied to an expectation of success.'
+1211423612814708739,2019-12-29 23:07:51,"b""@arram You've clearly thought a lot about this.\n\nI think one huge part is buy in. People go to college expecting to\xe2\x80\xa6 https://t.co/VG71Wz7Qoc"""
+1211334806614745089,2019-12-29 17:14:58,b'The time in your life where you make the most friends is your first week in college. No other time comes close.\n\nHo\xe2\x80\xa6 https://t.co/dwOm5JFewd'
+1210014778250403844,2019-12-26 01:49:38,b'Fun update: apparently @lachygroom got these guys onto stripe when he was PMing checkout.js. Fun!'
+1209895458077728768,2019-12-25 17:55:30,"b'Fun stuff on xmas:\n\nThe creators of Cards Against Humanity (@CAH) have pivoted to a checkout + shipping platform,\xe2\x80\xa6 https://t.co/MN7fbsLgCH'"
+1209164529260613632,2019-12-23 17:31:03,"b'Bill\'s ambition of vision early on:\n\n""We did BASICs for everything and we knew from the beginning we weren\xe2\x80\x99t the BA\xe2\x80\xa6 https://t.co/Q5RVx866O4'"
+1209164522964963335,2019-12-23 17:31:02,"b'Bill on competitive inspiration:\n\n""Our competition said, \'Windows had the risk of just becoming a set of poorly deb\xe2\x80\xa6 https://t.co/siqrMdF8cT'"
+1209164508364591107,2019-12-23 17:30:58,"b'Bill on IBM as a partner:\n\n""So if you can pick these toughest customers and meet their needs, then you can sit back\xe2\x80\xa6 https://t.co/YItZMTIOrb'"
+1209164491943890944,2019-12-23 17:30:54,"b""Incredible quotes from @BillGates and @reidhoffman's @mastersofscale episode:\n\nMitch Lasky on Bill:\n\n\xe2\x80\x9cBill is wrong\xe2\x80\xa6 https://t.co/9ftQVEZIsJ"""
+1208795031957467136,2019-12-22 17:02:48,"b'Growing up while the smartphone was invented was such a gift.\n\nAs I grew up, all these things that were impossible\xe2\x80\xa6 https://t.co/qlt71yGMgC'"
+1208218615134052352,2019-12-21 02:52:20,"b'Headed home to New Mexico for the holidays.\n\nLooking back on the year and all its twists and turns, it has been inc\xe2\x80\xa6 https://t.co/h4Rje7g5eZ'"
+1207800076258533376,2019-12-19 23:09:12,"b'In the best organizations, it is OK to make mistakes, but unacceptable not to learn from them.\n\nAccomplishing somet\xe2\x80\xa6 https://t.co/Oo1zvb6yk7'"
+1206372099452915712,2019-12-16 00:34:56,b'The reason you can do what people say is impossible is because the world is incredibly miscalibrated.\n\nPeople wildl\xe2\x80\xa6 https://t.co/ebVKPJGY9Y'
+1205357872885846016,2019-12-13 05:24:46,b'Come to @scale_AI to launch your career.\n\nYour initial cohort of coworkers matters so much for the rest of your car\xe2\x80\xa6 https://t.co/d7jYEI3gZ4'
+1205177496485781504,2019-12-12 17:28:00,"b'Immigrants are used to fighting for themselves because usually nobody else will.\n\nThis breeds self-sufficiency, res\xe2\x80\xa6 https://t.co/16x9cBA5ik'"
+1204999962984976385,2019-12-12 05:42:33,b'@eugeneiiim Pretty great framing!'
+1204881131574829058,2019-12-11 21:50:22,b'The best companies demonstrate micro chaos and macro structure.\n\nMicro chaos (resembling anarchy) allows the intere\xe2\x80\xa6 https://t.co/CB6APZj2yR'
+1204095027091165190,2019-12-09 17:46:40,b'Headed to #NeurIPS2019 later today.\n\nLooking forward to catching up with everyone and seeing all the hotness in deep learning!'
+1204077282937016320,2019-12-09 16:36:09,b'@rabois I feel lame when my ideas are so noncontroversial!'
+1203912829746573312,2019-12-09 05:42:40,"b'Comment from someone knowledgeable I met last night:\n\nThe people at Blue Origin are more talented, but SpaceX has a\xe2\x80\xa6 https://t.co/p5fLdIo49S'"
+1203732505498509312,2019-12-08 17:46:08,b'The reason to work at a successful startup before starting your own is to have a really good initialization.\n\nMost\xe2\x80\xa6 https://t.co/VvmMPNLSnp'
+1203409913763921920,2019-12-07 20:24:16,"b""There's storytelling and there's science.\n\nStorytelling is more effective in matters with people. Science is more e\xe2\x80\xa6 https://t.co/CaiPKYGUnO"""
+1203059110318501888,2019-12-06 21:10:18,b'@russelljkaplan So one would conclude that you think labeling is one of the most impactful steps in the process ;)'
+1202341328769568768,2019-12-04 21:38:05,b'Key management skill #106:\n\nSeparate the message from the delivery.\n\nThere is almost always an important message in\xe2\x80\xa6 https://t.co/vHMlMW96j8'
+1202077178701025280,2019-12-04 04:08:27,"b""If a candidate is about to turn you down, do NOT go for broke by discrediting the other company and saying they're\xe2\x80\xa6 https://t.co/dSLKqolm9R"""
+1201325852606119937,2019-12-02 02:22:57,"b""The secret to accomplishing impressive things:\n\nDo not give yourself a way out.\n\nEither you do it, or you don't and\xe2\x80\xa6 https://t.co/4fb0jAsGH5"""
+1201287936639062016,2019-12-01 23:52:17,b'@eriktorenberg @Jason @TWistartups Thanks for connecting us!!'
+1201226155619041280,2019-12-01 19:46:47,b'I had a great time with @Jason on @TWistartups\n talking about:\n\n\xf0\x9f\x91\xa8\xe2\x80\x8d\xf0\x9f\x92\xbb my own story\n\xf0\x9f\xa4\x96 machine learning and its challen\xe2\x80\xa6 https://t.co/LdX4OMuYMO'
+1200843893333323776,2019-11-30 18:27:49,b'How to hire people better than you:\n\n1\xe2\x80\x94Clear most of your calendar\n2\xe2\x80\x94List the most talented people you know\n3\xe2\x80\x94Meet\xe2\x80\xa6 https://t.co/bohKlnurdN'
+1200178487333548033,2019-11-28 22:23:44,b'Perceptions have incredible compounding effects.\n\nFrom Rolf Harms wonderful \xe2\x80\x9cEconomics of the Cloud\xe2\x80\x9d from 2010:\n\n\xe2\x80\x9cA\xe2\x80\xa6 https://t.co/P6JiGQTCrY'
+1199944353222807552,2019-11-28 06:53:22,b'@ilyasu More:\n\nhttps://t.co/9qcjoCvhww'
+1199943856327839744,2019-11-28 06:51:23,"b'@ilyasu Read this, thought it was a joke, thought about it more, and found this helpful thread on StackExchange. I\xe2\x80\xa6 https://t.co/DinUOQir6X'"
+1199942066257551360,2019-11-28 06:44:17,"b'@rauchg , says AlphaGo, chuckling to himself as he reads the news:\n\nhttps://t.co/1nyUy9Bb11'"
+1199941582280986624,2019-11-28 06:42:21,"b'@hardmaru If AI communicate over web-like UIs, it will have been a small victory for humans'"
+1199941281645907971,2019-11-28 06:41:10,b'@aaronmfisher Not this one'
+1199938753030021121,2019-11-28 06:31:07,b'I just had to complete a captcha to buy internet for my flight.\n\n???\n\nWhat adversary is trying to hack the inflight\xe2\x80\xa6 https://t.co/iXTMQNeR4n'
+1199817245821526016,2019-11-27 22:28:17,b'So excited to have @melisatokmak onboard! \xf0\x9f\x8e\x89 https://t.co/IDJM8uaW3G'
+1199058252656345089,2019-11-25 20:12:19,"b'The viral phrase that\xe2\x80\x99s taken over is \xe2\x80\x9cdata is the new oil\xe2\x80\x9d. It\xe2\x80\x99s a little true\xe2\x80\x94data is very valuable, and needs to\xe2\x80\xa6 https://t.co/aIqWcrPqKz'"
+1198631509139214336,2019-11-24 15:56:35,"b'One origin of the standup meeting\xf0\x9f\x91\xad\n\nFujio Mitarai, CEO of Canon, noticed that the exec status meetings lasted 2 ful\xe2\x80\xa6 https://t.co/u8DvDjSBuq'"
+1198322491745193984,2019-11-23 19:28:40,b'Confusing but true fact:\n\nThe people from whom I\xe2\x80\x99ve benefited the most are not the ones who have tried to help me (\xe2\x80\xa6 https://t.co/2BuTR8cITE'
+1198320508036497408,2019-11-23 19:20:47,"b'@rauchg We ended up going back to this paradigm to decouple the deploys :/ not a very \xe2\x80\x9ccool\xe2\x80\x9d answer, but dev velocity is everything'"
+1195382346587025408,2019-11-15 16:45:35,"b'There is a fine line between conviction and intellectual honesty. \n\nSometimes everyone says you\xe2\x80\x99re wrong, and you\xe2\x80\x99r\xe2\x80\xa6 https://t.co/Mu48lL6Og3'"
+1194386414185545728,2019-11-12 22:48:06,b'We wrote up a blog post about our work with @OpenAI on fine-tuning their GPT-2 model.\n\nIf you are curious about the\xe2\x80\xa6 https://t.co/EEwl8tKVkX'
+1193946127831203840,2019-11-11 17:38:33,b'New office for @scale_AI \xf0\x9f\x8e\x89\n\nIt checks all the boxes:\n\xe2\x9c\x85gradients\n\xe2\x9c\x85more meeting rooms\n\xe2\x9c\x85bigger\n\xe2\x9c\x85living walls\n\xe2\x9c\x85Zoom roo\xe2\x80\xa6 https://t.co/RiO5tgFBGb'
+1193772631020822529,2019-11-11 06:09:09,"b'Scaling = no capacity constraints\nCompounds = exponential upside\n\nCompounding is a statement on the top-line, and s\xe2\x80\xa6 https://t.co/mPEym4hjzb'"
+1193677093055295488,2019-11-10 23:49:31,"b""Simple rule for founders: Only spend your time on things whose value compounds exponentially.\n\nThey don't need to s\xe2\x80\xa6 https://t.co/j2ldL5m3uh"""
+1193284265225551872,2019-11-09 21:48:33,"b""Microsoft's shift from a dev-ignorant company to a dev-reverent org (Github, VS Code, etc) is one for the history b\xe2\x80\xa6 https://t.co/dw0oSQUrqN"""
+1192262719933542401,2019-11-07 02:09:18,"b'Hilarious thing someone noticed at dinner yesterday\xe2\x80\x94\n\nIn SF, folks will say they are angel investing because they e\xe2\x80\xa6 https://t.co/GNMewypPIq'"
+1191841612982177793,2019-11-05 22:15:58,b'RT @the_prion: Alexandr is an original thinker. Very fun to talk to. https://t.co/tq5mens4Zv'
+1191797955746918400,2019-11-05 19:22:29,"b'I sat down with @software_daily to talk about AI, providing infrastructure to a whole industry, and building high-v\xe2\x80\xa6 https://t.co/UQki9R703z'"
+1191118693712855040,2019-11-03 22:23:21,"b'@tszzl The core products are code and brand, which are not created transactionally'"
+1191117054914383873,2019-11-03 22:16:50,"b'San Francisco is a uniquely non-transactional city, compared to NY, LA, Chicago, etc.\n\nMost people are successful t\xe2\x80\xa6 https://t.co/ZGP3dK87pU'"
+1190094275142443010,2019-11-01 02:32:40,"b""All the best work I've ever done is late at night [between 12am and 6am], under the gun, where it was either due AS\xe2\x80\xa6 https://t.co/aoZGrXBVl1"""
+1188858580579115013,2019-10-28 16:42:28,"b'Many folks believe there\xe2\x80\x99s a smooth continuum between good people and great people.\n\nIn my experience, there\xe2\x80\x99s a hu\xe2\x80\xa6 https://t.co/CdPX1l07Cy'"
+1188207788838866950,2019-10-26 21:36:27,"b'Physics, as an approximate science, teaches you to only focus on the most significant elements.\n\nIt turns out this\xe2\x80\xa6 https://t.co/hmoGo5bGzT'"
+1186341078158344192,2019-10-21 17:58:48,b'Have spent 2 hrs today waiting at the hospital and on hold for @BankofAmerica \n\nExtremely frustrated by poor capaci\xe2\x80\xa6 https://t.co/E2xBJ23Zan'
+1186029445192110080,2019-10-20 21:20:29,b'How to build something insanely great:\n\n1. Build something you care about.\n2. Find users. Listen to them.\n3. Improv\xe2\x80\xa6 https://t.co/CimLuLnMm5'
+1184316750537490432,2019-10-16 03:54:51,"b'Unofficial information always travels faster than official information.\n\nUnofficial info is juicier, so each person\xe2\x80\xa6 https://t.co/qp21kjGnw9'"
+1184164543506763777,2019-10-15 17:50:02,"b""Sidenote: there's this thing called Occam's Razor"""
+1184164019122442247,2019-10-15 17:47:57,"b'Real interaction:\n\nMe: \xe2\x80\x9cHey, we\xe2\x80\x99ve met briefly, but I work with X on your team.\xe2\x80\x9d\n\nVC @ a firm invested in Scale: \xe2\x80\x9cC\xe2\x80\xa6 https://t.co/TRHPfR3HIK'"
+1184130610308104192,2019-10-15 15:35:12,b'Simple life hack: use an eye mask and/or blackout shades to get better sleep.\n\nConsistently gives me another hour o\xe2\x80\xa6 https://t.co/0ZSTwDKZvu'
+1183868063394873344,2019-10-14 22:11:56,"b'RT @olivercameron: @scale_AI Also, a shoutout to the @scale_AI team for their speed and attention to quality. It matters.'"
+1183772278028242945,2019-10-14 15:51:19,"b""RT @olivercameron: I've never been so excited about a dataset as the one we just kicked off with @scale_AI \xf0\x9f\xa5\xb3\n\nThis one is a little special."""
+1183487984127004672,2019-10-13 21:01:38,b'Simple truth: your biggest strength is usually also your biggest weakness.\n\nDon\xe2\x80\x99t fool yourself. Moving fast is not\xe2\x80\xa6 https://t.co/8GfQl0H3pB'
+1182481469102383104,2019-10-11 02:22:06,"b'When reality follows plot points from @Succession_HBO, i.e. Kendall buying Vaulter https://t.co/eUqQZo3ngK'"
+1182364660395212800,2019-10-10 18:37:56,b'The transition from *code* to *data* as the best way to improve your software system is happening fast.\n\nThe engine\xe2\x80\xa6 https://t.co/8nokrjTXr5'
+1179895446065602560,2019-10-03 23:06:10,"b'@maccaw @scale_AI @ycombinator that metric would be even more favorable to us, I\xe2\x80\x99m sure'"
+1179448815151005696,2019-10-02 17:31:25,"b""@scale_AI @ycombinator Here's the link: https://t.co/cYHlx3Wjgu"""
+1179448333984657408,2019-10-02 17:29:30,b'.@scale_AI is currently the 19th largest @ycombinator company. More notably:\n\n- Lowest headcount $1B+ company at 90\xe2\x80\xa6 https://t.co/lR6S7KlG7A'
+1176953574380593152,2019-09-25 20:16:13,"b'It\xe2\x80\x99s disappointing when people in tech engage in zero sum or negative sum games (mudslinging, sh*t talking, obsessi\xe2\x80\xa6 https://t.co/F6BiSr9OqG'"
+1175929024431849472,2019-09-23 00:25:01,b'Using RL in the \xe2\x80\x9creal world\xe2\x80\x9d is dependent on this research direction.\n\nReward functions are very challenging in any\xe2\x80\xa6 https://t.co/AuLiZxDFo2'
+1175854438029742080,2019-09-22 19:28:39,b'@acganesh @Stanford_OHS School learning is not being well rounded. Learning a variety of things on your own is being well rounded.'
+1175826479982100480,2019-09-22 17:37:33,"b'The dominant reason to be ""well-rounded"" in the college application sense is to practice learning things from scrat\xe2\x80\xa6 https://t.co/3ZN4elazYr'"
+1175574238641606657,2019-09-22 00:55:14,b'RT @karpathy: We see more significant improvements from training data distribution search (data splits + oversampling factor ratios) than n\xe2\x80\xa6'
+1175574225345638400,2019-09-22 00:55:11,b'RT @NandoDF: I think this is an important observation by @karpathy. Somehow the areas of active learning class imbalance in ML and experime\xe2\x80\xa6'
+1175119095043223552,2019-09-20 18:46:39,"b'We @scale_AI worked with @OpenAI on fine-tuning GPT-2 with human preferences. The results are extremely exciting, a\xe2\x80\xa6 https://t.co/TQArOjU6mN'"
+1175118473938132992,2019-09-20 18:44:11,"b""RT @OpenAI: We've fine-tuned GPT-2 using human feedback for tasks such as summarizing articles, matching the preferences of human labelers\xe2\x80\xa6"""
+1174030682009432064,2019-09-17 18:41:41,b'.@scale_AI was recognized today in the #ForbesAI50 of the most promising AI companies in the America.\n\nWe are big b\xe2\x80\xa6 https://t.co/mfOlx7UtD3'
+1170028558548291584,2019-09-06 17:38:41,b'@mavolpi @twentyminutevc Thank you Mike :) great questions from one of the great VCs of our time!'
+1169997250199609344,2019-09-06 15:34:16,"b'I had an incredible time with @HarryStebbings on @twentyminutevc.\n\nWe discussed AI optimism, hiring incredible peop\xe2\x80\xa6 https://t.co/XssFG5LeuM'"
+1169300455219970048,2019-09-04 17:25:27,"b""I am very grateful for @scale_AI to be named one of LinkedIn's Top Startups of 2019.\n\nWe are early in our mission t\xe2\x80\xa6 https://t.co/faJkXHIyOL"""
+1168018301752135680,2019-09-01 04:30:38,"b""@fchollet If everyone believed this, then billboards would be really cheap and they'd be great ROI. Now billboards\xe2\x80\xa6 https://t.co/Y5QZDZ4fNE"""
+1166495779457945600,2019-08-27 23:40:40,b'@jeremyhfisher @scale_AI Hey seeing this now. Will fix this'
+1166106439598764033,2019-08-26 21:53:35,"b""Enterprise sales is a lot like chess.\n\nBy meticulously analyzing every sale, wins and losses, you'll gain pattern r\xe2\x80\xa6 https://t.co/8XO4ZP4Na6"""
+1164569691337084928,2019-08-22 16:07:05,"b'@rickyrauch Same to you, Ricky. I look forward to the years ahead :)'"
+1164538405906071552,2019-08-22 14:02:46,b'One of the best parts of working with people you love is growing with them personally and professionally. It is rea\xe2\x80\xa6 https://t.co/DUQBXZXdYv'
+1163503687823585280,2019-08-19 17:31:10,"b'An early @scale_AI logo concept from the amazing @tywilkins.\n\nWe ended up opting for the wordmark, but this logo is\xe2\x80\xa6 https://t.co/A0Hfk57zF3'"
+1163220997513732096,2019-08-18 22:47:52,"b'Watching YC Alumni Demo Day, few thoughts:\n\n1. Many ideas derivative to the ""hot financings"" of today (DoorDash, Co\xe2\x80\xa6 https://t.co/HKr9H2U5XO'"
+1163198086715334656,2019-08-18 21:16:49,b'@ilyasu Play some video games'
+1163163619124584448,2019-08-18 18:59:51,"b'Saw ""Children of Men"" last night, which is incredible. Slavoj Zizek\'s quote about it is similarly great:\n\n""A good p\xe2\x80\xa6 https://t.co/FE7XwbvCfV'"
+1162780380241358848,2019-08-17 17:37:00,b'@AnthonyCastrio @rockinbinbin @jhilmd This spreadsheet is awesome'
+1162769428422909952,2019-08-17 16:53:29,"b""What's the best place to work on Saturday in SF?"""
+1162382615938158593,2019-08-16 15:16:26,b'Nothing like waking up in the morning to a @scale_AI blog post on the front page of HN!\n\nCheck out the post here:\xe2\x80\xa6 https://t.co/s9IAH6fCvn'
+1161381639701684224,2019-08-13 20:58:54,b'RT @mavolpi: Terrific analysis from @scale_ai on LIDAR:  Is Elon Wrong About LiDAR? https://t.co/vVdzQVs1jx'
+1161304789373767681,2019-08-13 15:53:32,"b'If you want to be a historian, go into finance.\n\nIf you want to write the future, go work at a startup.\n\nAs a finan\xe2\x80\xa6 https://t.co/eVevn44siF'"
+1161131258862170113,2019-08-13 04:23:59,"b""RT @olivercameron: I've been waiting forever for someone to write a post like this. Thank you @scale_AI.\n\nhttps://t.co/HdkEGdK4Fj"""
+1160969304243728385,2019-08-12 17:40:26,b'RT @scale_AI: Is Elon Musk wrong about LiDAR? We compared annotated data from both camera and LiDAR to quantitatively understand LiDAR\xe2\x80\x99s ad\xe2\x80\xa6'
+1160269053434269696,2019-08-10 19:17:53,"b'Why you\'ll beat competition is often not as clean cut as investors like to believe.\n\nIt\'s not usually ""our tech doe\xe2\x80\xa6 https://t.co/dSLrRR1HqD'"
+1159164633074167809,2019-08-07 18:09:19,b'You can also listen on apple podcast: https://t.co/ZhMMdlHu73\nOr Spotify: https://t.co/c68bxInVS3'
+1159164632281436160,2019-08-07 18:09:19,"b'For our next AI Futures interview, I spoke with @jeremyphoward\xe2\x80\x94founder of https://t.co/4eERidpqIg.\n\nWe discussed hi\xe2\x80\xa6 https://t.co/SBzBzSvQja'"
+1158763624959102983,2019-08-06 15:35:51,"b""4/ Pay attention to the criticisms (often there is some truth to them), but don't let them shake you.\n\nIf you want\xe2\x80\xa6 https://t.co/YzAkrJz84V"""
+1158763624325738496,2019-08-06 15:35:51,"b""3/ Remember and amplify your deep belief about why you're doing what you're doing.\n\nI knew that labeled data really\xe2\x80\xa6 https://t.co/YvyR8rCMSg"""
+1158763623604293633,2019-08-06 15:35:51,b'2/ One investor friend told our early engineer that Scale was a horrible co to join. No chance of outsized success.\xe2\x80\xa6 https://t.co/r5Cuu2baj6'
+1158763622815846401,2019-08-06 15:35:51,"b'1/ One note to startup ppl that I wish more people told me\xe2\x80\x94\n\nThese days, there is so much negativity in startups. M\xe2\x80\xa6 https://t.co/CM7ZCqGF8E'"
+1158538730782769152,2019-08-06 00:42:12,b'Full article: https://t.co/Fg3q1WlUKI'
+1158538644657004544,2019-08-06 00:41:52,b'Thank you @peterthiel for your vote of confidence https://t.co/b30pK0bMxj'
+1158510863126605825,2019-08-05 22:51:28,"b'Yep, born and raised in Los Alamos, New Mexico. First NM unicorn? https://t.co/tAm1nVx8vO'"
+1158504194409549824,2019-08-05 22:24:58,"b'Thank you @mavolpi and @IndexVentures.\n\n""Our journey with Scale has... just begun. Alex and his team will continue\xe2\x80\xa6 https://t.co/q5ENzjomph'"
+1158487191783391233,2019-08-05 21:17:24,"b'Thank you, @daniel_levine and @Accel \n\n""We\xe2\x80\x99ve supported each other...over the last three years and created some ama\xe2\x80\xa6 https://t.co/b2REzVDNRT'"
+1158471728156348416,2019-08-05 20:15:58,"b'I no longer feel any guilt for all those times I said:\n\n""If Scale were worth $1B, your equity value would be X""\n\nwh\xe2\x80\xa6 https://t.co/jzPSvcPznJ'"
+1158464483720880130,2019-08-05 19:47:10,"b""@paulg Thankfully, there's some people working on closing that gap.\n\n@paulg \xe2\x80\x94 thanks for starting YCombinator. With\xe2\x80\xa6 https://t.co/0rB1bM3R7W"""
+1158459152328511498,2019-08-05 19:25:59,"b""@BrianNorgard @scale_AI @HelloSpearhead it's a pretty sweet jacket. definitely part of my daily apparel"""
+1158452169248579585,2019-08-05 18:58:14,"b""RT @BW: Here, a human tasker draws a bounding box around a moving vehicle in the first frame of the video. Scale's model tracks it automati\xe2\x80\xa6"""
+1158452159542898688,2019-08-05 18:58:12,"b'RT @BW: In this video, a human tasker tags content within a text description https://t.co/x7HthbN4nF https://t.co/dQWxVeYTtF'"
+1158452149854056449,2019-08-05 18:58:10,"b""RT @BW: This view shows the accuracy of Scale's machine learning model (green) compared to the labels applied by human taskers (red) https:\xe2\x80\xa6"""
+1158452138583953409,2019-08-05 18:58:07,"b'RT @BW: This video shows point cloud data in various states, showing:\n-Raw, unannotated data\n-Scale\'s ""all-points"" feature\n-Photo colors pr\xe2\x80\xa6'"
+1158452130434473985,2019-08-05 18:58:05,"b'RT @BW: Here, the human tasker is using a LiDAR draw tool to segment point cloud data, which can be used by a Scale customer to train their\xe2\x80\xa6'"
+1158452121911681026,2019-08-05 18:58:03,"b""RT @BW: In this video, Scale's model attempts to label the scene on its own. The human tasker tells the tool which locations are incorrect,\xe2\x80\xa6"""
+1158452111123898368,2019-08-05 18:58:00,"b""RT @BW: This video shows a tasker putting points on top of a car and a pedestrian. Scale's tool then fills in the rest of the space. The la\xe2\x80\xa6"""
+1158444338873077760,2019-08-05 18:27:07,b'RT @scale_AI: Thank you @IndexVentures  for your continued support of Scale! Excited to see where our journey takes us next! https://t.co/X\xe2\x80\xa6'
+1158441187864453122,2019-08-05 18:14:36,"b""RT @IndexVentures: Today we celebrate @scale_AI $100M Series C. What gets us most excited about their potential is that we're just in the e\xe2\x80\xa6"""
+1158425085352587266,2019-08-05 17:10:37,"b""RT @Accel: From working on @Scale_AI in our partner @Daniel_Levine's basement, to building it into the company it is today, it has been rem\xe2\x80\xa6"""
+1158424549010153472,2019-08-05 17:08:29,"b""RT @BW: Scale AI just became Silicon Valley's latest unicorn. Here's how the startup's human taskers train its models https://t.co/x7HthbN4\xe2\x80\xa6"""
+1158424518442070023,2019-08-05 17:08:22,"b""RT @business: Scale AI, which teaches machines to see, is about to be valued at more than $1 billion. It's run by a 22-year-old https://t.c\xe2\x80\xa6"""
+1158420279670038528,2019-08-05 16:51:31,b'@willreed_21 @scale_AI Excited to be partnering together! Thank you for your belief in the mission.'
+1158409364329381889,2019-08-05 16:08:09,b'RT @scale_AI: We\xe2\x80\x99re proud of what we\xe2\x80\x99ve built over the last three years. Today we\xe2\x80\x99re pleased to announce our $100M Series C fundraise led b\xe2\x80\xa6'
+1158409220628406272,2019-08-05 16:07:35,"b""In three years, @scale_AI has grown from an idea into a platform accelerating the progress of the world's best mach\xe2\x80\xa6 https://t.co/j0Dtieny1t"""
+1158394034718728197,2019-08-05 15:07:14,"b""@vas @daniel_levine Thanks for your support ever since we worked out of @daniel_levine's basement ;)"""
+1158393732535857152,2019-08-05 15:06:02,"b""RT @Techmeme: Profile of Scale AI's 22-year-old CEO Alexandr Wang, whose startup, which uses 30,000 contractors and AI to analyze images, s\xe2\x80\xa6"""
+1158391807455182857,2019-08-05 14:58:23,b'@impcapital @justindross @zck https://t.co/ooPpC5pjYE'
+1158385014926729216,2019-08-05 14:31:23,b'@cjc @scale_AI Thank you for your basement!'
+1158377090284171265,2019-08-05 13:59:54,"b'@valleyhack I appreciate the callout:\n\n""(Wang was indeed of legal drinking age by then.)""\n\nKeeping me out of trouble!'"
+1158372791613308928,2019-08-05 13:42:49,"b""@ilyasu @daniel_levine Thanks @ilyasu! You've been an awesome friend &amp; investor so far\xe2\x80\x94lots more to do"""
+1158369194867666945,2019-08-05 13:28:32,b'RT @mavolpi: Congrats to @alexandr_wang and @scale_ai. Finally getting the recognition that they deserve: https://t.co/bh7nKXnJfU'
+1158365831358832641,2019-08-05 13:15:10,b'RT @scale_AI: .@business\xe2\x80\x99s @valleyhack spent time getting to know Scale\xe2\x80\x99s team and products as we work to accelerate the development of AI\xe2\x80\xa6'
+1150212157507637249,2019-07-14 01:15:22,"b'""Without training data, there was no ML model. There was no AI. Without the model, there was no solution. Without t\xe2\x80\xa6 https://t.co/CqLSsEJyIc'"
+1146068346263097346,2019-07-02 14:49:21,"b""@nomadicnerd @brexHQ Been using Brex since before they were called Brex and it's been waaay better than any other c\xe2\x80\xa6 https://t.co/jbSsd9xpQW"""
+1141839177534697472,2019-06-20 22:44:08,b'And thus begins @scale_AI fashion line of ML apparel \xf0\x9f\x94\xa5 https://t.co/nwIBeSo1MM'
+1141566004029349888,2019-06-20 04:38:39,b'RT @scale_AI: Thanks to everyone who came by our #CVPR2019 Happy Hour! https://t.co/kSINrDfvlX'
+1141088980596740096,2019-06-18 21:03:08,"b'RT @scale_AI: Stop by our #CVPR2019 booth (#1361) to say hello, see a live LiDAR demo and learn how we accelerate the development of AI app\xe2\x80\xa6'"
+1141088934178377728,2019-06-18 21:02:56,b'RT @Inc: How to Avoid the Single Biggest Mistake Startup Founders Make @alexandr_wang @Quora https://t.co/Tx32asHiYY'
+1137903345903947776,2019-06-10 02:04:33,b'RT @newsycombinator: Life of a Data Labeler https://t.co/bV4rtz9tkV'
+1137903324777177089,2019-06-10 02:04:28,"b'RT @newsycbot: Video Interview with Christian Szegedy, Discoverer of Adversarial Examples in AI https://t.co/7yIPdn50wG (cmts https://t.co/\xe2\x80\xa6'"
+1137168894190166017,2019-06-08 01:26:06,b'@flippnflops @ChrSzegedy Let me know which browser! Also try watching on YouTube!'
+1137097012698992641,2019-06-07 20:40:28,"b'I sat down with @ChrSzegedy\xe2\x80\x94discoverer of adversarial examples, and inventor of Inception and BatchNorm.\n\nWe talked\xe2\x80\xa6 https://t.co/T5cpl8KPhA'"
+1136803243034435586,2019-06-07 01:13:08,"b'RT @scale_AI: When some companies document the positive side effects of their work, it creates higher expectations of all companies. We ask\xe2\x80\xa6'"
+1130509601915326464,2019-05-20 16:24:27,"b""I'm taking questions on @Quora Sessions today! Ask me any burning questions you have!\n\nFun fact: I built the first\xe2\x80\xa6 https://t.co/7SShd7iV52"""
+1129817144030519297,2019-05-18 18:32:52,"b""Why aren't more tech optimists talking about this? Paging @patrickc @fchollet @paulg @natfriedman"""
+1129814608594722816,2019-05-18 18:22:48,"b""Most exciting thing I've seen in a very long time. NASA goal-setting.\nhttps://t.co/ux481DLJoF"""
+1129508522998190080,2019-05-17 22:06:31,"b'RT @QuoraSessions: .@alexandr_wang, CEO at @scale_ai, is hosting a session this Monday at 9 AM PT. Ask your questions now! https://t.co/QPw\xe2\x80\xa6'"
+1125175024489357312,2019-05-05 23:06:45,"b""Heading to #ICLR2019 this week! Ping me if you're going, would love to meet up!"""
+1123637654531133441,2019-05-01 17:17:47,"b'RT @scale_AI: New blog post courtesy of our lead ML engineer: https://t.co/bvkjXQsgyM \nFind out why with training data, quantity is no pana\xe2\x80\xa6'"
+1122929007308075008,2019-04-29 18:21:53,"b""RT @scale_AI: Meet the latest members of Scale's Engineering, Product and Design Teams! https://t.co/giE3YpFCzE"""
+1120422716878798848,2019-04-22 20:22:46,b'Very excited to be on the @saastr podcast with @HarryStebbings\n\nListen for advice on how to build a strong API busi\xe2\x80\xa6 https://t.co/zOluEv3j9H'
+1114266008154296320,2019-04-05 20:38:13,"b'@daniel_levine @haldaume3 @iandanforth @umdclip @FigureEightInc Yes, would love to get you in our academic/research\xe2\x80\xa6 https://t.co/lSDxr21yuM'"
+1113659022111006720,2019-04-04 04:26:16,b'@eriktorenberg Chat with @MarcBodnick and @richardhenry who are building @telepath'
+1112754468297146368,2019-04-01 16:31:53,b'RT @scale_AI: Scale is taking a bold next step and launching our daring new products\xe2\x80\x94training data for autonomous Canines.\n\nhttps://t.co/kr\xe2\x80\xa6'
+1108860518125596672,2019-03-21 22:38:43,b'Strange (and flattering) to see so many @scale_AI for X companies out of this batch of @ycombinator \n\nScale for OCR\xe2\x80\xa6 https://t.co/EN2nlCJw9Q'
+1101636061040525312,2019-03-02 00:11:19,b'@woj_zaremba Very related: internal vs external locus of control.\n\nHaving an internal locus of control is a value f\xe2\x80\xa6 https://t.co/0g9H2l6Qkl'
+1100492974255796224,2019-02-26 20:29:05,b'RT @scale_AI: We are excited to work with @OpenAI on their mission to ensure artificial general intelligence benefits all of humanity.\n\nWe\xe2\x80\xa6'
+1098649641329905665,2019-02-21 18:24:21,b'The Travis news was sad to hear.\n\n@scale_AI would be extremely excited to work with former Travis engineers.\n\nWe ar\xe2\x80\xa6 https://t.co/VrwoyqkDrE'
+1090764063934636035,2019-01-31 00:09:52,b'Really excited to be supporting @PAVECampaign to educate the public and policymakers on the impacts of autonomous v\xe2\x80\xa6 https://t.co/iB6z9LsjhN'
+1089630081041936384,2019-01-27 21:03:50,"b'@theRahulM It\'s ""easy"" to measure. Also, it\'s easy to diagnose startup failures as tackling a too-small market, whe\xe2\x80\xa6 https://t.co/0dXdw1u9hB'"
+1089616419719852032,2019-01-27 20:09:33,b'The myopic focus on TAM for startup ideas feels like a bug of the current startup meta. Markets are rarely too smal\xe2\x80\xa6 https://t.co/jBiWabR6xa'
+1087830885460660225,2019-01-22 21:54:28,b'Extremely excited to have Eugene joining as our Head of Engineering \xf0\x9f\x8e\x89 https://t.co/TPlVcmDhPl'
+1087776694138679296,2019-01-22 18:19:08,b'@software_daily Thanks for having me on the podcast!'
+1087776612551077888,2019-01-22 18:18:49,"b'RT @software_daily: Alexandr Wang (@alexandr_wang), CEO at ScaleAPI on big data in self-driving technology.\n\nListen to the full episode bel\xe2\x80\xa6'"
+1084532125481676800,2019-01-13 19:26:23,b'@bgurley Weather prediction will improve a lot in next couple of years. Google Brain is working on weather predicti\xe2\x80\xa6 https://t.co/joh6RwpCaR'
+1078916776073687040,2018-12-29 07:32:59,"b'Your existence is an active learning loop.\n\nYour rate of growth is proportional to the goodness of your algorithm,\xe2\x80\xa6 https://t.co/ZdSC0oIVhk'"
+1078864833037008896,2018-12-29 04:06:35,b'@SmithaMilli great tweet'
+1077795094080573441,2018-12-26 05:15:49,b'Marketplaces are great.\n\nThere are Ubers/Lyfts on Christmas (vs other businesses which are basically all closed) be\xe2\x80\xa6 https://t.co/TeUFjpsDj1'
+1076907760602628096,2018-12-23 18:29:52,"b""@TurnerNovak If you're a social network, it basically never makes sense to acquire users via ads. Your ARPU will ne\xe2\x80\xa6 https://t.co/hhmfdiWxet"""
+1076907574627188737,2018-12-23 18:29:08,b'@ParthaSundaram @imjgoldsmith ... Snapchat must be very desperate for ad revenue'
+1076657867850080256,2018-12-23 01:56:53,"b""Just learned about Kessler syndrome and am now reasonably concerned about it.\n\nWhy don't I see doomsday news articl\xe2\x80\xa6 https://t.co/FmxHDHt0Or"""
+1076641618348761088,2018-12-23 00:52:19,"b""I just got a tiktok ad on Snapchat. That can't be a profitable user acquisition strategy. Also surprised Snapchat i\xe2\x80\xa6 https://t.co/TnimmoDjpR"""
+1074703379979415552,2018-12-17 16:30:27,b'RT @scale_AI: Introducing: Video Annotation \nhttps://t.co/tUtkfh2y9l https://t.co/JLWggSLfUv'
+1074577473336033280,2018-12-17 08:10:08,b'@iamNives @michael_at_work @fchollet Check out @scale_AI'
+1074481138897276929,2018-12-17 01:47:21,"b'@fchollet Yep, what we @scale_AI have believed for years now. A good opportunity to create a lot of value.\n\nhttps://t.co/z1taLLg796'"
+1074424567270060032,2018-12-16 22:02:33,"b'@fchollet For those saying data collection and labeling, we make it easy @scale_AI https://t.co/z1taLLg796'"
+1074016620396179456,2018-12-15 19:01:31,b'The cohort of ~1000 students that just got accepted to @MIT are going to build incredible things and produce 10s of\xe2\x80\xa6 https://t.co/JLDK3JdYIa'
+1073470437139439617,2018-12-14 06:51:10,"b"".@scale_AI made @Wealthfront's list of Career-Launching Companies \xf0\x9f\x9a\x80\n\n2 notable things\n- at 2 yrs old, we're one of\xe2\x80\xa6 https://t.co/LxW9fHx9f8"""
+1073311285855436800,2018-12-13 20:18:46,"b""RT @scale_AI: We're honored and exciting to be included on @Wealthfront's Career-Launching Companies List!\n\nJoin us: https://t.co/6WXQCDNIr\xe2\x80\xa6"""
+1072228602442211328,2018-12-10 20:36:34,"b""A great chat with @qasar and @eriktorenberg about autonomous vehicles.\n\nIt's an exciting time to be building things\xe2\x80\xa6 https://t.co/lVgaBoF8RS"""
+1069344082638454789,2018-12-02 21:34:31,"b""Heading to #NeurIPS this week. Hit me up if you'd like to meet up!\n\nWould love to catch up #NeurIPS18"""
+1067983453591748608,2018-11-29 03:27:52,"b""RT @scale_AI: Scale was included in this year's @BreakoutList\xe2\x80\x94an annual list of the best startups to work at \xf0\x9f\x9a\x80\n\nIf you're interested, take\xe2\x80\xa6"""
+1065319800098840576,2018-11-21 19:03:27,"b'RT @fchollet: Reality is more creative and surprising than fiction, but fiction has structure, meaning, and an aesthetic sense that reality\xe2\x80\xa6'"
+1064942013047402496,2018-11-20 18:02:16,"b'RT @alexandr_wang: The world through the eyes of an autonomous vehicle.\n\n@nuTonomy collected, @scale_AI annotated.\n\nExplore the data yourse\xe2\x80\xa6'"
+1064363738440982528,2018-11-19 03:44:24,b'(and this is what the \xf0\x9f\x93\xb7 sees) https://t.co/umSVscnYXN'
+1064363736008318977,2018-11-19 03:44:24,"b'The world through the eyes of an autonomous vehicle.\n\n@nuTonomy collected, @scale_AI annotated.\n\nExplore the data y\xe2\x80\xa6 https://t.co/v52sffokYa'"
+1061798692993159169,2018-11-12 01:51:50,"b'Did some math competition problems over the weekend. Boy, was it fun \xf0\x9f\x99\x83\n\nNothing like solving bite-sized problems wh\xe2\x80\xa6 https://t.co/wveEFUOL4Y'"
+1058402342058356736,2018-11-02 16:55:57,b'RT @scaleAPI: Our domain has changed! You can now find us at https://t.co/3Up3PLM1OH https://t.co/pneOn2haqr'
+1057836791800057856,2018-11-01 03:28:39,"b'@mvernal Slides from a talk I gave today, titled ""How much data is required to Autonomous Vehicles a reality?"" https://t.co/l3UiNVMcPO'"
+1057769870119460864,2018-10-31 23:02:44,"b'My talk at #ODSCWest today, where I walked through Fermi estimates of how much data is needed to achieve 1 accident\xe2\x80\xa6 https://t.co/uBtrJbScn2'"
+1054434440737284096,2018-10-22 18:08:55,"b'RT @odsc: Join Alexandr Wang, CEO at Scale at Accelerate AI in San Francisco, Oct 31 - Nov 1.\n@alexandr_wang #ODSC #ODSCWest\nhttps://t.co/0\xe2\x80\xa6'"
+1053423342340820992,2018-10-19 23:11:11,b'Made it off the #NIPS wait-list! That was a happy surprise! \xf0\x9f\x98\x8a'
+1052664338178224128,2018-10-17 20:55:10,b'Proud that @scaleAPI is one of YCs top companies \xf0\x9f\x9a\x80 https://t.co/q1Xhz2Kqtz'
+1051871990020108289,2018-10-15 16:26:39,"b'Good stuff, @MIT. Application of ML/AI to every field will power next decade of research. https://t.co/89jUq155mA'"
+1049721235234406400,2018-10-09 18:00:20,"b'RT @scaleAPI: Scale was featured in the @CNBC Upstart 100, a list of the 100 most promising startups to watch \xf0\x9f\x8e\x89\n\nhttps://t.co/OatKQ4WskF'"
+1049360724005273600,2018-10-08 18:07:47,"b'Headed to Munich, Germany later this week\n\nAnyone else there / wanna meet up?'"
+1045887185306628097,2018-09-29 04:05:11,b'@olivercameron @voyage @scaleAPI That means a lot Oliver \xe2\x9d\xa4\xef\xb8\x8f nothing better in this job than pleasing customers'
+1045867066488582144,2018-09-29 02:45:14,b'We are extremely excited to be supporting @voyage in their mission to super-charge communities with autonomous vehi\xe2\x80\xa6 https://t.co/HaXg8Kack1'
+1043228430509043713,2018-09-21 20:00:14,"b""The awesome folks at @nuTonomy built a devkit for working with the nuScenes dataset.\n\nNow it's not only the largest\xe2\x80\xa6 https://t.co/WBq4naRI6B"""
+1042627057304256512,2018-09-20 04:10:36,b'@Suhail Very exciting! DM me for any feedback from the docs to the data back!'
+1042617283955159041,2018-09-20 03:31:46,"b'@Suhail Not purely for asphalt and sidewalks, but we open sourced the largest self driving dataset last week with\xe2\x80\xa6 https://t.co/SBO6CLwQYb'"
+1042612618714742785,2018-09-20 03:13:13,b'@Suhail We work with some great folks who like us well enough! Happy to grab coffee to tell you more \xf0\x9f\x98\x8a'
+1042191729229623297,2018-09-18 23:20:45,"b""Richard Ni built out recruiting at Cruise as they hired 700 people in 3 years\n\nNow he's at @scaleAPI as Head of Peo\xe2\x80\xa6 https://t.co/mTPM7ScFGD"""
+1041740038940221443,2018-09-17 17:25:54,b'RT @ycombinator: Congrats to @scaleAPI and @nuTonomy on launching the largest open-source self-driving dataset ever: https://t.co/7dnQW4iowS'
+1041454572865286144,2018-09-16 22:31:34,b'The first future might happen surprisingly quickly... https://t.co/NHYWbP7uwd'
+1041234152677433344,2018-09-16 07:55:41,b'@natfriedman - Semantic HD maps for the whole world for all robotics and AR applications\n- Neural interfaces that c\xe2\x80\xa6 https://t.co/99K5wpd9FH'
+1040696047595646978,2018-09-14 20:17:27,"b'RT @IndexVentures: Congrats @scaleAPI on this impressive achievement! Scale and nuTonomy release nuScenes, a self-driving dataset with over\xe2\x80\xa6'"
+1040684815710932993,2018-09-14 19:32:49,"b'RT @scaleAPI: We collaborated with @nuTonomy to release the largest open source self-driving dataset ever, including LIDAR, RADAR, camera,\xe2\x80\xa6'"
+1039313746768945154,2018-09-11 00:44:41,b'Another page on our solutions for robotics companies:\nhttps://t.co/LaTlrNG34z'
+1039313444439244800,2018-09-11 00:43:29,b'Some beautiful new pixels pushed for @scaleAPI by the amazing @rickyrauch\nhttps://t.co/is8hxrvHI4'
+1038269517820874753,2018-09-08 03:35:17,"b""If you're coming to ECCV, stop by the @scaleAPI happy hour Tuesday evening!\n\nhttps://t.co/aGe7e9XWRC"""
+1037002110330531841,2018-09-04 15:39:04,"b'NIPS selling out in 10 minutes is just not credible. Last year, it took 2 weeks to sell out, so it sold out 1000x f\xe2\x80\xa6 https://t.co/IG35R7xmjP'"
+1037001329304956928,2018-09-04 15:35:58,b'@NipsConference The ticket sold out in 20 minutes. Last year they sold out in 2 weeks. Is there a bug? Were there b\xe2\x80\xa6 https://t.co/40RiKefVFM'
+1036690327363411969,2018-09-03 19:00:09,"b""@karpathy AR glasses will be a cool example. At some point it will be odd that you can't arbitrarily visually alter your environment"""
+1028795706859896833,2018-08-13 00:09:45,"b'@magicleap And it charges using USB-C, meaning I can use my Mac charger!'"
+1028788755006509056,2018-08-12 23:42:07,"b"".@magicleap One. Exceeds expectations.\n\nCurrently building a LIDAR visualizer\xe2\x80\x94most excited I've been to hack on som\xe2\x80\xa6 https://t.co/r2sBUMhjB0"""
+1027971398914924544,2018-08-10 17:34:14,"b""RT @Accel: With more than 10,000 people doing @scaleAPI tasks all over the world, @daniel_levine reflects on Scale's journey to-date, where\xe2\x80\xa6"""
+1027737308827549696,2018-08-10 02:04:03,b'RT @daniel_levine: The Next Step of AI: Our Continued Investment in Scale -  https://t.co/0hLFKGPJvC'
+1027076425398898688,2018-08-08 06:17:56,b'@ediggs yep\xe2\x80\x94premise of this sci-fi short story by @karpathy https://t.co/m67PnNqR3V'
+1027074235833839616,2018-08-08 06:09:14,"b'RT @Techmeme: Scale, a managed marketplace for contractors who examine and categorize visual data to train AI systems, raises $18M Series B\xe2\x80\xa6'"
+1026952940181893120,2018-08-07 22:07:15,b'@cjc @scaleAPI Thanks Cristina!! Your basement was an integral part of the story!'
+1026887593026179072,2018-08-07 17:47:35,b'@ilyasu Thanks Ilya!!'
+1026886845345329152,2018-08-07 17:44:37,b'RT @WIREDTransport: If data-labeling companies like Scale API have to re-do the same kind of work for multiple autonomous driving companies\xe2\x80\xa6'
+1026886712507609088,2018-08-07 17:44:05,"b'RT @TechCrunch: Scale, whose army of humans annotate raw data to train self-driving and other AI systems, nabs $18M https://t.co/koHo5hJPUp\xe2\x80\xa6'"
+1026884721039441920,2018-08-07 17:36:10,b'RT @ycombinator: Congrats to @scaleAPI on raising their Series B: https://t.co/i0AMa3Fbh6'
+1026883373094981632,2018-08-07 17:30:49,b'from @WIRED : \nhttps://t.co/e42M0YBGne'
+1026883328660496385,2018-08-07 17:30:38,b'From @VentureBeat :\nhttps://t.co/IQgbOJkMKg'
+1026883240978669568,2018-08-07 17:30:17,b'Coverage on the funding:\nhttps://t.co/z8VJ5SCUID'
+1026880264641769472,2018-08-07 17:18:28,"b"".@mavolpi has been absolutely incredible to work with. Not hard to see why he'll have 3+ IPOs this year https://t.co/obPSQFMMoV"""
+1026878895365058560,2018-08-07 17:13:01,"b'RT @scaleAPI: Exciting news! Scale has raised $18M in Series B funding led by @IndexVentures with @Accel, @ycombinator, @drewhouston and @j\xe2\x80\xa6'"
+1026877763955740673,2018-08-07 17:08:32,"b'Thrilled to announce the @scaleAPI $18M Series B with @mavolpi from @IndexVentures, @Accel, @ycombinator,\xe2\x80\xa6 https://t.co/YxktlPox8G'"
+1026859628225646592,2018-08-07 15:56:28,b'RT @mavolpi: Great article on @scaleAPI and @alexandr_wang: Powering computer vision - https://t.co/jVdaARcIgi'
+1023824884605112321,2018-07-30 06:57:28,b'RT @AdamWagner1: Can\xe2\x80\x99t... stop... watching https://t.co/p0cJBLaoer'
+1019279153361707008,2018-07-17 17:54:22,"b'RT @scaleAPI: We are excited to empower Zoox in their mission: to create the full realization of autonomous mobility, today.\n\nhttps://t.co/\xe2\x80\xa6'"
+1016728086308478977,2018-07-10 16:57:20,b'@aseemk @scaleAPI Very lucky to work with great people!'
+1016705177435365376,2018-07-10 15:26:18,"b'Meet the @scaleAPI engineering team.\n\nSome stats:\n\xf0\x9f\x8f\x85 2 IOI gold medals, 2 IPhO Gold medals\n\xf0\x9f\x8e\xae 5 games built as side-p\xe2\x80\xa6 https://t.co/BRss0azgmH'"
+1014170641069555712,2018-07-03 15:34:57,b'RT @refikanadol: Getting first heightmap experiments with GAN ouptuts. This one trained on 600k digital archive images of @LAPhil.  @pkmita\xe2\x80\xa6'
+1013611578371928064,2018-07-02 02:33:26,b'San Francisco from above https://t.co/EUaHNJJaEo'
+1012091861375188992,2018-06-27 21:54:38,b'I wrote a piece in @VentureBeat about the challenges around uncertainty and safety for autonomous vehicles. Check i\xe2\x80\xa6 https://t.co/FofuwyZsSp'
+1011640564599566336,2018-06-26 16:01:20,b'Building fast querying for MongoDB using Amazon Athena\n\nhttps://t.co/5eDbYnY3Rp'
+1011640333522702336,2018-06-26 16:00:25,"b""RT @scaleAPI: Introducing Scale's #TechTuesday! Make sure to follow us @scaleAPI for the latest updates. Today's article is all about Query\xe2\x80\xa6"""
+1010258491867480064,2018-06-22 20:29:28,b'RT @natfriedman: Separating children from their parents is a moral abomination and must be stopped. Here\xe2\x80\x99s a list of things you can do to h\xe2\x80\xa6'
+1010178455130931201,2018-06-22 15:11:26,"b""Come chat with me and @scaleAPI engineers at @ycombinator's Work at a Startup Expo on July 28th. There aren't bette\xe2\x80\xa6 https://t.co/gsaTag0Wnn"""
+1010030029651128320,2018-06-22 05:21:39,"b""RT @scaleAPI: That's a wrap on Day 1 @CVPR! Thank you to everyone who came by. Make sure to come back tomorrow to booth #1344 for a chance\xe2\x80\xa6"""
+1006561977093591040,2018-06-12 15:40:51,"b'RT @scaleAPI: Come see our CEO @alexandr_wang speak at @theinformation Autonomous Vehicles alongside founders of @Cruise, @zoox, @aurora_in\xe2\x80\xa6'"
+992853573380665344,2018-05-05 19:48:32,b'RT @rickyrauch: New Product Icons https://t.co/bxaBUPZNzY'
+990992604576677888,2018-04-30 16:33:43,b'Heading to #ICLR2018! Let me know if you\xe2\x80\x99ll be around :)'
+988885180155756544,2018-04-24 20:59:34,"b'RT @scaleAPI: Introducing Teams for Scale \xf0\x9f\x91\xa8\xe2\x80\x8d\xf0\x9f\x92\xbb\xf0\x9f\x91\xa9\xe2\x80\x8d\xf0\x9f\x92\xbb\xf0\x9f\x91\xa9\xe2\x80\x8d\xf0\x9f\x92\xbc\n\nCollaborate on datasets with your whole team, seamlessly.\n\nhttps://t.co/fqziAOnjCk htt\xe2\x80\xa6'"
+986361313575096321,2018-04-17 21:50:37,b'@justinkan too late to change the name?'
+985238863743348736,2018-04-14 19:30:24,b'@karpathy Haha all good party ideas have already been executed on'
+980589349308739584,2018-04-01 23:34:54,b'RT @scaleAPI: Excited to launch our long-term vision for Scale API\xe2\x80\x94\n\nAPI for Weight Measurement \xe2\x9a\x96\xef\xb8\x8f\n\nhttps://t.co/6QZX0HNNoO'
+977325052122226688,2018-03-23 23:23:44,b'@SmithaMilli I\xe2\x80\x99m not sure that a property of matrices counts as a favorite matrix!'
+976147456281870336,2018-03-20 17:24:24,b'@ilyasu Happy birthday!! \xf0\x9f\x8e\x82'
+975838577085923328,2018-03-19 20:57:01,b'This is a tragedy and I encourage our entire industry to work closely with lawmakers to make these occurrences as r\xe2\x80\xa6 https://t.co/dffTVadpi1'
+975548573558358016,2018-03-19 01:44:39,b'RT @prostheticknowl: Gloomy Sunday\nLatest addition to @memotv\xe2\x80\x99s ongoing \xe2\x80\x98Learning to See\xe2\x80\x99 project demonstrates a neural network powered rea\xe2\x80\xa6'
+971787983987785728,2018-03-08 16:41:24,b'@acrosson @scaleAPI Not right now unfortunately. A change instructions is usually a pretty significant change and should restart the tasks'
+971335163165655040,2018-03-07 10:42:04,b'@HarryStebbings @harryglaser @PeriscopeData @saastr @lpolovets I agree\xe2\x80\x94the progress of data science and machine lea\xe2\x80\xa6 https://t.co/Vk1xQEg2uk'
+970756423125626881,2018-03-05 20:22:21,b'RT @scaleAPI: Our founder @alexandr_wang\ndiscussing training for autonomous vehicles\nhttps://t.co/gpJ8FYV2eB'
+968267061817360385,2018-02-26 23:30:31,"b""@alex_teichman by the way, let me know if you'd like any help with producing labeled data\xe2\x80\x94@scaleAPI  would be happy\xe2\x80\xa6 https://t.co/oPZ4hS0EwG"""
+966561381637013504,2018-02-22 06:32:45,b'RT @alex_teichman: @scaleAPI where were you during my PhD??  Back in the bad old days I had to write all this by hand. https://t.co/N450nbG\xe2\x80\xa6'
+966433537728552961,2018-02-21 22:04:45,"b""RT @joininteract: Check out @scaleAPI's Sensor Fusion Annotations -- @alexandr_wang &amp; team's newest product focused on building 3D percepti\xe2\x80\xa6"""
+966373736541650944,2018-02-21 18:07:07,b'RT @scaleAPI: Our founder @alexandr_wang on the human costs to deploying mapping for self-driving cars.\n\nhttps://t.co/z1QdSish3A https://t.\xe2\x80\xa6'
+964539767143546880,2018-02-16 16:39:35,b'RT @fchollet: The two bottlenecks in the deployment of ML:\n- Availability of large quantities of labeled data\n- Availability of ML engineer\xe2\x80\xa6'
+964539043542269952,2018-02-16 16:36:42,"b""@fchollet Strongly agree. At https://t.co/Xd7883yj9W, we're working to make high quality data labeling an infrastru\xe2\x80\xa6 https://t.co/bsYShyJTwX"""
+964270266363789312,2018-02-15 22:48:41,b'RT @scaleAPI: Introducing Sensor Fusion Annotation\n\nhttps://t.co/nLyuyo7Lyu https://t.co/xYBuvqKO4C'
+964036364541902848,2018-02-15 07:19:14,b'RT @alexandr_wang: Excited to accelerate self-driving cars with our new launch\nScale 3D: build 3D perception for self-driving cars https://\xe2\x80\xa6'
+964034678628978688,2018-02-15 07:12:32,b'Excited to accelerate self-driving cars with our new launch\nScale 3D: build 3D perception for self-driving cars\xe2\x80\xa6 https://t.co/Kp8R2lXAiF'
+957772005771689984,2018-01-29 00:26:55,b'more cool generative music\n\nhttps://t.co/EGWDossgEJ'
+955541432126791680,2018-01-22 20:43:25,b'RT @scaleAPI: We integrated a live demo of our Sensor Fusion Visualizer onto our homepage.\n\nhttps://t.co/hmoa6PFYRs https://t.co/ep1ojS52OC'
+949045505085997056,2018-01-04 22:30:55,b'RT @tarinziyaee: We @voyage can vouch for @scaleAPI - extremely helpful and awesome 3D annotations! https://t.co/cQ61LXBsPl'
+949045344280563713,2018-01-04 22:30:17,b'RT @scaleAPI: @guidomaliandi We published a &lt;Link&gt; that allows prefetching data with Next.JS:\n\nhttps://t.co/J36JWiNKgF https://t.co/n5bZZWp\xe2\x80\xa6'
+948952440702775296,2018-01-04 16:21:07,b'Great work! We offer all three as label types accessible via @scaleAPI \xf0\x9f\x98\x8a https://t.co/VxlypRHTBa'
+948951818305863713,2018-01-04 16:18:38,b'@arbitton I totally felt it too!!'
+947825773884325888,2018-01-01 13:44:08,"b'RT @ilyasut: The ML wish of 2018:  may all your local minima be global, your variance bounded, your labelled data plentiful, and your compu\xe2\x80\xa6'"
+947676872225177603,2018-01-01 03:52:27,"b""RT @JeffDean: Slides from my talk in yesterday's ML Systems workshop are now up at  https://t.co/cbCLDMqF3T\n#NIPS2017"""
+947530813083500544,2017-12-31 18:12:04,b'RT @EricTopol: Yet another #AI milestone: superhuman performance in no-limit poker for the 1st time (wow) https://t.co/gVP2h7YFjR @sciencem\xe2\x80\xa6'
+944333918571921408,2017-12-22 22:28:45,b'We at @scaleAPI just labeled our first driving scenes using full sensor fusion:\n\ncamera + LIDAR (old news) +\n\xf0\x9f\x94\xa5RADAR\xe2\x80\xa6 https://t.co/E5mJLG4Ssa'
+943236849690017792,2017-12-19 21:49:24,b'RT @scaleAPI: Come join @scaleAPI \xf0\x9f\x98\x8a https://t.co/347KntUFRb'
+942492386952855552,2017-12-17 20:31:10,b'RT @hardmaru: The same thing could have been written in 2017. https://t.co/AFxUTthlZS'
+942231431568244737,2017-12-17 03:14:13,"b""Most refreshing thing I've seen in music in years\n\nhttps://t.co/R2WbjTiCZl"""
+941450889809686528,2017-12-14 23:32:38,"b'RT @scaleAPI: Welcome, Stanford Vision Lab, to the Scale Family!\n\nhttps://t.co/MrAXn76PMU https://t.co/B3wqhXZ898'"
+940691495492788225,2017-12-12 21:15:04,"b""RT @scaleAPI: Introducing Scale's New Dashboard!\n\nhttps://t.co/JttzF4d1gL https://t.co/OqD1YMRf94"""
+938577565580541952,2017-12-07 01:15:04,"b'RT @arunoda: If you wanna prefetch data with Next.js, this is how you should do it: https://t.co/w2mlxCZJgf \nGood job @scaleAPI'"
+938511888220004352,2017-12-06 20:54:05,b'RT @scaleAPI: Increasing the Performance of Dynamic Next.JS Websites by @guidomaliandi\n\nhttps://t.co/aG1Ej49W8k https://t.co/pRDIZ1SmKm'
+937479719984939009,2017-12-04 00:32:37,b'Heading to #NIPS2017 this week\xe2\x80\x94ping me if you want to meet up!'
+935387262568644609,2017-11-28 05:57:56,b'@GaryPendergast @expensify Hey @expensify \xe2\x80\x94 check out @scaleAPI for a more private and secure way to complete Smart\xe2\x80\xa6 https://t.co/eeDb7f3Lbr'
+934823797047287808,2017-11-26 16:38:56,b'RT @Reza_Zadeh: The New Computing Stack:\n\n- GPUs/TPUs are eating Linear Algebra.\n- Linear Algebra is eating Deep Learning.\n- Deep Learning\xe2\x80\xa6'
+932398383318286336,2017-11-20 00:01:12,"b'true heroism in 2017.\nthank you, anonymous node developer https://t.co/02ZCHkCOV1'"
+932014114477457408,2017-11-18 22:34:15,b'@jongold Re-pinging here\xe2\x80\x94any chance you all still need semantic segmentation?'
+931692238932869121,2017-11-18 01:15:14,b'@rauchg \xf0\x9f\xa4\x9c\xf0\x9f\x8f\xbc @rickyrauch'
+930701504926842880,2017-11-15 07:38:25,b'@amitku @DariaEvdo @maiab @lucy_guo @aksaigal @mzaveri @Bad2theSloane Thanks Amit :)'
+930641212737953792,2017-11-15 03:38:50,b'@JonDishotsky @scaleAPI @lucy_guo Thanks Jon!!! \xf0\x9f\xa4\x9c\xf0\x9f\x8f\xbc'
+930513611725746176,2017-11-14 19:11:47,b'Huge honor! Now back to work \xf0\x9f\x91\xa8\xf0\x9f\x8f\xbb\xe2\x80\x8d\xf0\x9f\x92\xbb https://t.co/UXggHQR7BU'
+925230020510941184,2017-10-31 05:16:41,b'RT @benhamner: Deep learning and AI get all the buzz/press. The untold story is all the hard valuable work to create high quality datasets\xe2\x80\xa6'
+923621437469949952,2017-10-26 18:44:45,b'RT @scaleAPI: Honored to be recognized alongside @heroku for our developer experience!\n\nhttps://t.co/PDOf8WOsa6'
+922875669188550656,2017-10-24 17:21:20,b'Congrats @KarlIagnemma and team (and all investors)! https://t.co/2jwkbI0uZ4'
+922515049431699456,2017-10-23 17:28:21,b'RT @rickyrauch: Say hello to our new homepage!\n\n\xf0\x9f\x91\xa8\xf0\x9f\x8f\xbb\xe2\x80\x8d\xf0\x9f\x92\xbb https://t.co/LbsKrmb9Mc https://t.co/wwexF8ruOl'
+915798931308552192,2017-10-05 04:40:54,"b'RT @DeepMindAI: Last year WaveNet was a research project, today it launches in the @Google Assistant https://t.co/CuRBl92Hy2 https://t.co/X\xe2\x80\xa6'"
+915115168849207296,2017-10-03 07:23:52,b'@jongold Feel free to PM me or email me @ alex[at]https://t.co/Xd7883yj9W and would love to see how we can help!'
+915114711460438017,2017-10-03 07:22:03,b'@jongold We work with a bunch of enterprise customers and would be happy to walk through our data/security measures with your team!'
+915051465659400192,2017-10-03 03:10:44,b'@jongold @_inesmontani @honnibal hey @jongold! Alex from @scaleAPI here\xe2\x80\x94we actually provide a simple API through wh\xe2\x80\xa6 https://t.co/jgQdJqQiOu'
+913474546514092038,2017-09-28 18:44:38,b'So damn cool. Nice job @ccheever and rest of @expo_io team https://t.co/dPXFY7Cqm1'
+913424487076438016,2017-09-28 15:25:42,b'@ak1010 Yep! Use humans to achieve high quality. There are a bunch of large scale use cases that rely on our judgme\xe2\x80\xa6 https://t.co/clyoBsYGtP'
+912421996503474177,2017-09-25 21:02:10,b'I just published \xe2\x80\x9cGuest Post: Cloudinary Uses Scale API to Focus on Image Compression\xe2\x80\x9d https://t.co/raZF9xFgvS'
+905279606764294145,2017-09-06 04:00:52,"b'RT @BaiduResearch: Proud to announce our paper ""Deep Voice 2: Multi-Speaker Neural Text-to-Speech"" is accepted for #nips2017 spotlight! htt\xe2\x80\xa6'"
+903018196273324032,2017-08-30 22:14:49,b'RT @SpaceAnubis: .@voyage captured and @scaleAPI labeled --&gt; sequence labeled LiDAR 3D point clouds! https://t.co/PXzLRwAN83'
+902720225925251072,2017-08-30 02:30:48,b'RT @hardmaru: We evolved AR stick figures with RNN brains to avoid physical and virtual objects! By @afuste @jdthamores @halfdanj https://t\xe2\x80\xa6'
+902444105535414273,2017-08-29 08:13:36,"b""RT @SpaceAnubis: It's all about data. @scaleAPI annotations coming thru! Our @voyage Ops peeps caught on LiDAR \xf0\x9f\x95\xba\xf0\x9f\x92\x83 https://t.co/24r9S3MY9s"""
+901572961022259200,2017-08-26 22:31:58,"b""RT @natfriedman: Today's the last day to apply for AI Grant \xe2\x80\x93 $2500 in cash and &gt;$20k in GPU credits. Apply in just minutes: https://t.co/Q\xe2\x80\xa6"""
+901572692301684736,2017-08-26 22:30:54,"b""@saranormous @Shopify Isn't this just a wrapper around @stripe checkout?"""
+901571191780937728,2017-08-26 22:24:57,"b'RT @hardmaru: Neural Net evolved to play Mario Kart 64, requiring only small computing power. MarioKart64NEAT code by Nick Nelson: https://\xe2\x80\xa6'"
+901528557188390912,2017-08-26 19:35:32,"b'RT @oliyoung: BY HAND. \n\nSHE CALCULATED ROCKET TRAJECTORIES BY HAND.\n\nBUZZ ALDRIN TRUSTED NO-ONE ELSE, NOT EVEN THEIR COMPUTERS. https://t.\xe2\x80\xa6'"
+899140397892382720,2017-08-20 05:25:50,"b""Cool to see @scaleAPI's transcription API be recognized \n\nhttps://t.co/NpIlbvnCrI https://t.co/KJ2llNzM3k"""
+897835596302909441,2017-08-16 15:01:01,b'I just published \xe2\x80\x9cIntroducing New Image Annotation Types\xe2\x80\x9d https://t.co/ZumZPE1bMw'
+891917424651452416,2017-07-31 07:04:19,"b'RT @hardmaru: ""Facebook Shut Down AI After It Invented Its Own Language"" is a very irresponsible title for a news article. The authors shou\xe2\x80\xa6'"
+891775819860684801,2017-07-30 21:41:38,"b'@martin_wicke @olivercameron @BenedictEvans It definitely tells you exactly where obstructions are, then you need t\xe2\x80\xa6 https://t.co/2nvWlcJEsr'"
+891519580123693058,2017-07-30 04:43:26,"b'@olivercameron @BenedictEvans @martin_wicke ""I need to learn how far things are with ML"" vs ""I know exactly how far\xe2\x80\xa6 https://t.co/lvBmnIR8BG'"
+890800253665923072,2017-07-28 05:05:05,"b'RT @garrytan: When hiring most positions, raw talent and energy beats the resume. There are a lot of diamonds in the rough waiting to be fo\xe2\x80\xa6'"
+889947414328614912,2017-07-25 20:36:12,"b'Spoke on 52 Founders about @scaleAPI, check it out :) https://t.co/mf7ByanG07'"
+888839563770077184,2017-07-22 19:14:00,b'At #CVPR17! Hit me up to chat about ConvNets and training data \xf0\x9f\x91\x8b'
+888501223166365696,2017-07-21 20:49:33,"b""RT @scaleAPI: Attending #cvpr2017? Let us know if you'd like to meet up! #cvpr #computervision #patternrecognition"""
+885715430387597313,2017-07-14 04:19:49,"b""@olivercameron No worries! With everything happening in DL these days, that's equally plausible!"""
+885712414519418884,2017-07-14 04:07:50,"b""@olivercameron The photos weren't generated\xe2\x80\x94edited/photoshopped rather"""
+885549674630754304,2017-07-13 17:21:09,b'@hardmaru Feels like animes are going to start drawing inspiration from RL'
+885535373518028800,2017-07-13 16:24:20,b'RT @mrcalexandre: @ow You can also do it with @scaleAPI https://t.co/Z8BSuOTYLb'
+881913322269851649,2017-07-03 16:31:35,b'@cdixon You can duplicate and review humans to increase performance. Ensemble NN algos are worse than ensemble of humans.'
+880527359878746112,2017-06-29 20:44:16,b'@daniel_levine @scaleAPI Thanks Dan!!'
+880514207153741824,2017-06-29 19:52:00,b'@olivercameron @scaleAPI Amazing! Would love to chat more about your requirements and how we can help! Will DM :)'
+880510324855590912,2017-06-29 19:36:35,b'RT @scaleAPI: Scale for Autonomous Driving\n\nhttps://t.co/JxRfx55DWv https://t.co/kNSjWWBcMY'
+879501732715180033,2017-06-27 00:48:48,b'@timanglade @iandanforth @scaleAPI Very exciting! DM me anytime!'
+879480452825792512,2017-06-26 23:24:14,b'@timanglade @iandanforth @scaleAPI Feel free to reach out directly if you have any questions in the future! Would l\xe2\x80\xa6 https://t.co/tpKr0Uvn8G'
+878654842444460032,2017-06-24 16:43:33,"b""@saranormous That's me!! You didn't stop by \xf0\x9f\x98\x95"""
+869954427058352129,2017-05-31 16:31:13,b'I just published \xe2\x80\x9cWord-by-word Timestamps for Audio Transcription\xe2\x80\x9d https://t.co/7c3nX2Jctk'
+869628017781243904,2017-05-30 18:54:11,b'RT @scaleAPI: Congrats to the Spring 2017 AIGrant fellows! Looking forward to seeing how Scale can improve each project.\nhttps://t.co/qeGbN\xe2\x80\xa6'
+867480700412338180,2017-05-24 20:41:30,b'We at @scaleAPI are incredibly lucky to partner with @Accel. @daniel_levine and the team have been an absolute plea\xe2\x80\xa6 https://t.co/gYdqfDFNWM'
+867438436243853312,2017-05-24 17:53:34,"b'RT @ycombinator: Congrats to Scale (YC S16), the API for human intelligence, on raising their Series A https://t.co/NYr3KzBdl4'"
+867193167262568448,2017-05-24 01:38:57,b'RT @rickyrauch: ScaleAPI \xe2\x86\x97\xef\xb8\x8f https://t.co/SU2086VjhA'
+866808626316419072,2017-05-23 00:10:55,b'RT @rickyrauch: .@scaleAPI: Announcing Series A led by Accel\n\nhttps://t.co/8hebx6d9Ge https://t.co/YGkWXMNjEB'
+866770296673492992,2017-05-22 21:38:37,b'@juecd_ @scaleAPI @WSJ Thanks Cat!!'
+866759722937892864,2017-05-22 20:56:36,b'RT @Accel: @scaleAPI Helps Engineers Outsource \xe2\x80\x98Microtasks\xe2\x80\x99 https://t.co/436EjoZ4E7 via @WSJ'
+866759698115993601,2017-05-22 20:56:30,"b'RT @Accel: The thesis for our Series A in @scaleAPI, per @daniel_levine, is about ""two themes we love: APX and Productized AI."" https://t.c\xe2\x80\xa6'"
+866741890980368385,2017-05-22 19:45:44,"b""We announced @scaleAPI's Series A in the @WSJ today! https://t.co/tmkdxfRZzT via @WSJ"""
+866737100296601600,2017-05-22 19:26:42,b'@laurenoffwhite Thanks Lauren!! \xf0\x9f\x91\x8b\xf0\x9f\x99\x8f'
+866736565808123904,2017-05-22 19:24:35,b'@anoushkavaswani Thanks Anoushka!! \xf0\x9f\x98\x8a'
+866500443878309888,2017-05-22 03:46:19,b'RT @michaelkruse: So it has. https://t.co/7UvpMElZWP https://t.co/gA1rwKWh5z'
+864955608776138752,2017-05-17 21:27:41,b'Had a great time speaking about @scaleAPI at #APImixtape. Really incredible group of speakers and attendees\xe2\x80\x94props to @readmeio'
+864955158953840640,2017-05-17 21:25:54,b'RT @gritncompassion: Talking about scale: Dev API for human intelligence by @alexandr_wang #APIMIXTAPE https://t.co/85IGkWtyGf'
+864953411556352000,2017-05-17 21:18:58,b'RT @picsoung: Now that I see @alexandr_wang from @scaleAPI on #apimixtape stage I wonder why Jin Yang did not use it for Hotdog or Not #Sil\xe2\x80\xa6'
+860019733625577472,2017-05-04 06:34:17,"b""always great to see @scaleAPI's audio transcription API used to improve products. Can't wait to see what else peopl\xe2\x80\xa6 https://t.co/321v0mGkeV"""
+859833412713971712,2017-05-03 18:13:55,"b'@MarcBodnick Very low margin and operationally intensive biz. At large-scale, very much about operational efficiency.'"
+859833106605367296,2017-05-03 18:12:42,"b""@MarcBodnick Don't need autonomous cars, can get by on simpler delivery robots. Margins on consumer biz are bad, bu\xe2\x80\xa6 https://t.co/IY24PAgvOC"""
+859116192673316864,2017-05-01 18:43:56,b'Proud for @scaleAPI to be supporting @natfriedman AI Grant! https://t.co/HuxyRYLUgN'
+851683444182482946,2017-04-11 06:28:51,"b'@_tessr @daniel_levine @apimixtape Hey Tess, would love to meet up!'"
+850028412248801280,2017-04-06 16:52:20,b'RT @rickyrauch: Introducing our API for Categorization!\n\nhttps://t.co/IJj6R5NFfh https://t.co/bxcQauRueV'
+850028342430519297,2017-04-06 16:52:04,b'RT @scaleAPI: Meet our API for Categorization!\n\nhttps://t.co/dcZuicnmh5 https://t.co/6MrK9cSEv6'
+849792664560050176,2017-04-06 01:15:34,b'RT @rickyrauch: Shipping something tomorrow! @scaleAPI https://t.co/5AQhtxzkKo'
+848798990384603136,2017-04-03 07:27:03,b'RT @goodfellow_ian: CycleGAN learns to turn horses into zebras *without supervision*: https://t.co/JVTWIyDYAj https://t.co/FRpCtYCwM9'
+847965293804527616,2017-04-01 00:14:15,b'RT @readmeio: Scale is the API for human intelligence. Learn from their CEO @alexandr_wang at API Mixtape!\n\nGet tickets now: https://t.co/x\xe2\x80\xa6'
+847660065175646208,2017-03-31 04:01:22,b'@edwardjiang7 @scaleAPI Extremely accurate\xe2\x80\x94we strive to be the highest quality solution out there :)'
+847535366210863104,2017-03-30 19:45:52,b'Going to be speaking at @apimixtape about @scaleAPI!\n\nUse the code MIXTAPE10 for 10% off tix! See you all there\xe2\x80\xa6 https://t.co/Ko7Vliw2HJ'
+847534364032352256,2017-03-30 19:41:53,b'RT @briandoll: This looks like a great conference for anyone building or selling APIs https://t.co/5BRtpfcl3X'
+847533726598782976,2017-03-30 19:39:21,"b""@AlxCoventry @scaleAPI Tons of data for image object recognition, audio transcription data. See our products\xe2\x80\x94that's\xe2\x80\xa6 https://t.co/6m7Ae5iRNt"""
+847293229707833345,2017-03-30 03:43:42,b'@PameVls @scaleAPI thank you Pamela!'
+847293189866242048,2017-03-30 03:43:33,b'@colbyh thanks Colby!'
+847293091945959429,2017-03-30 03:43:09,b'@maxholzheu thanks max!'
+847291604314370050,2017-03-30 03:37:15,"b'@gabe_g2i @MsmChecker @scaleAPI we use Node and Python on the back end, and heavy users of React and Next.js on the front-end \xf0\x9f\x98\x8a cc @rauchg'"
+847260543727554562,2017-03-30 01:33:49,"b""@MsmChecker @scaleAPI our API is powered by humans for high quality. Also solve problems Clarifai doesn't\xe2\x80\x94object recognition/bounding boxes"""
+847249560275570692,2017-03-30 00:50:10,b'Hiring for ML experts at @scaleAPI. We have a huge + growing amount of high quality data.\n\nEmail us at jobs@scaleapi.com. Tell ur friends \xf0\x9f\x9a\x80'
+844251869945896964,2017-03-21 18:18:25,b'RT @scaleAPI: We launched a new page for our Image Recognition API. Check it out! https://t.co/joxLWQnC1b https://t.co/X9sMZhi0sY'
+842442418058272768,2017-03-16 18:28:18,"b""@wojcikstefan it does not scale, and my experience with SQL databases doesn't translate basically at all"""
+842393690077241348,2017-03-16 15:14:41,b'biggest regrets over the past year:\n1. using mongodb in production\n2. not migrating to postgresql before 1M documents\n3. ???'
+839628828414705665,2017-03-09 00:08:06,"b'@MarcBodnick but how many ""will X acquire Jelly"" questions did you write?'"
+839073086737559553,2017-03-07 11:19:47,"b""RT @pookleblinky: Physics is the search for a minimal-complexity encoding of reality. It's a compression scheme."""
+838522553710731264,2017-03-05 22:52:10,"b'OH in Hayes Valley: ""Aren\'t all the rich people supposed to be afraid of AI?""\n\xf0\x9f\x99\x88\xf0\x9f\x99\x84'"
+833626466000580608,2017-02-20 10:36:52,b'RT @rickyrauch: We just shipped a new pricing page: \nhttps://t.co/ZMBNMQA4d6 https://t.co/ZpnS0DwHY6'
+831381611723706368,2017-02-14 05:56:37,b'@mrcalexandre @scaleAPI all credit goes to @rickyrauch! \xf0\x9f\x8e\x89'
+831317671756980226,2017-02-14 01:42:32,b'RT @ilyasu: The new @scaleAPI website is real pretty. https://t.co/JweT63Cu3S'
+831131846897389568,2017-02-13 13:24:08,b'RT @scaleAPI: https://t.co/CteeZ3wAz1 is live https://t.co/Ojui5g7YLQ'
+831131817918869504,2017-02-13 13:24:01,b'RT @rickyrauch: Our new website is live. \nMeet the new https://t.co/deWURkWTmu. https://t.co/iU1Oak2lg2'
+829768491397849088,2017-02-09 19:06:39,"b'RT @scaleAPI: Training Data For Self Driving Cars With Scale API, by @lucy_guo https://t.co/z1ueQIjjEM'"
+829559636164440065,2017-02-09 05:16:44,"b'I love when I discover pricing bugs:\n$5 UberX from San Mateo to SF, cheaper than POOL \xf0\x9f\x99\x8f https://t.co/Z4C8324p1a'"
+824315400808579073,2017-01-25 17:58:01,"b""RT @scaleAPI: We're excited to partner with @PubNub to make our API accessible and usable to more and more developers \xf0\x9f\x8e\x89 Give it a try! http\xe2\x80\xa6"""
+821801995161845760,2017-01-18 19:30:38,"b'Woah, is this @Snapchat / @Uber integration new? https://t.co/9rWjzL9XqV'"
+819059019499196416,2017-01-11 05:51:02,"b""RT @POTUS: Thank you for everything. My last ask is the same as my first. I'm asking you to believe\xe2\x80\x94not in my ability to create change, but\xe2\x80\xa6"""
+818670753419669505,2017-01-10 04:08:12,"b""I was born in 1997, and I'm currently 19.97 years old. https://t.co/psyDTCyJwV"""
+818591220356108288,2017-01-09 22:52:10,"b'@rrhoover @sidewireinc @jake_zeller @dolginow nice Jake, super similar to what we were chatting about yesterday'"
+818519432993509376,2017-01-09 18:06:54,b'So excited to work with @rickyrauch for the coming years. \xf0\x9f\x9a\x80 https://t.co/zC37mh04mJ'
+818388033414172673,2017-01-09 09:24:46,b'@yunqsab @1015sf nice'
+818147025392779264,2017-01-08 17:27:05,"b'@jarredsumner make an nginx lb that routes to new more powerful servers, change DNS record, wait for TTLs to expire, done'"
+818143222945824768,2017-01-08 17:11:59,b'@jarredsumner rolling upgrade'
+816168771664478208,2017-01-03 06:26:13,b'@naval what about @Quora?'
+816037065947115520,2017-01-02 21:42:52,b'@Quora cc @wzchen good answer too \xf0\x9f\x98\x8a'
+816034715517845504,2017-01-02 21:33:32,b'New @Quora app design is pretty slick! Great job team! \xf0\x9f\x8e\x89 https://t.co/xft8zwVGs9'
+815830104290906112,2017-01-02 08:00:28,b'@rauchg Nice! I wrote one and pushed it to Medium\xe2\x80\x94extremely cathartic'
+815304798673063936,2016-12-31 21:13:06,b'I just published \xe2\x80\x9cWhat I learned in 2016\xe2\x80\x9d https://t.co/QjfYM1MqGm'
+814956064881840129,2016-12-30 22:07:21,b'@maccaw my friend made this at an internal Uber hackathon! https://t.co/ApjUzwE6Fv'
+814272710918275072,2016-12-29 00:51:57,"b""@daniel_levine well I can't exactly use my Kindle while skiing"""
+814230978864377856,2016-12-28 22:06:07,b'\xe2\x9b\xb7 + audiobook = \xf0\x9f\x91\x8c\xf0\x9f\x8f\xbc holiday break https://t.co/V7mNsu4SW3'
+813929918815813632,2016-12-28 02:09:49,b'@zeeg not lumas?'
+813530852504182784,2016-12-26 23:44:04,b'@rrhoover @TaskRabbit for sure. Used it to clean up our office a few times. Will be cheaper than Handy too'
+813498903517491200,2016-12-26 21:37:07,"b""If @Uber made use of that location tracking info, it would know I'm still in New Mexico \xf0\x9f\x99\x88\xf0\x9f\x98\xad https://t.co/I91dyIxCbk"""
+813457376237928449,2016-12-26 18:52:06,b'@rrhoover @maccaw an emailing API is a possibility for @scaleAPI \xf0\x9f\xa4\x94'
+812040976705298432,2016-12-22 21:03:50,b'RT @scaleAPI: Just launched a website for our Image Recognition API! Check it out\xe2\x9c\x8f\xf0\x9f\x96\xbc\nhttps://t.co/joxLWQnC1b'
+812016508217921536,2016-12-22 19:26:36,b'@justindross +1 totally agree'
+812007844622893056,2016-12-22 18:52:11,"b'@justindross lots of these jobs are centralized in urban areas. The market might not produce jobs in the same, which would cause some thrash'"
+811810985388294144,2016-12-22 05:49:56,"b""@justindross long term impact likely isn't huge. More important thing is how do we recreate jobs in same geos as it is common today?"""
+811810749014126592,2016-12-22 05:48:59,b'@justindross it will impact many geos significantly! This is how we get political climates like the last election'
+811805987078160384,2016-12-22 05:30:04,b'@justindross source https://t.co/hKrFQQmDLt'
+811805412097802240,2016-12-22 05:27:47,b'@justindross truck driving is the most common profession in many many states'
+811313173101875200,2016-12-20 20:51:48,b'RT @lucy_guo: Super excited to start working with @rickyrauch at @scaleAPI \xf0\x9f\x8e\x89 Welcome to the team.'
+810365828596002816,2016-12-18 06:07:24,b'RT @scaleAPI: Last chance to vote for Scale for the 2016 @ProductHunt Community Product of the Year \xf0\x9f\x8e\x89\xf0\x9f\x8e\x89 https://t.co/gDHJvoQ5Sc'
+810245335972913152,2016-12-17 22:08:36,"b""@MarcBodnick any other categories you want to bet on? On-demand delivery co's maybe?"""
+810244688296886272,2016-12-17 22:06:01,"b""@MarcBodnick I'll take the bet, still believe in Apple's ability to reach segments Spotify can't"""
+810243799012081664,2016-12-17 22:02:29,"b'@MarcBodnick I dont know enough about the space to predict the future, but Apple Music seems to have better artist relations, can outspend'"
+810243131467665408,2016-12-17 21:59:50,"b'@MarcBodnick agree on Tidal, but I think apples exclusives are way better. Drake, Rihanna, next Taylor Swift'"
+810239583375933440,2016-12-17 21:45:44,"b'@MarcBodnick Exclusive releases seem to drive adoption more than product (see Tidal, Apple Music). iPhone is also gr8 acq channel for apple'"
+809838460030754816,2016-12-16 19:11:49,b'RT @software_daily: [podcast] @ScaleAPI with @Lucy_Guo and @Alexandr_Wang #MachineLearning #HumanLabor https://t.co/lCHbEhGORO https://t.co\xe2\x80\xa6'
+809663723006611456,2016-12-16 07:37:29,b'Just hit 200 registered users on @scaleAPI Slack group! (s/o to @rauchg for slackin) https://t.co/7y57v6pZpu'
+808740363305250816,2016-12-13 18:28:22,b'@tzhongg savage. Best of luck indeed'
+806275859191447552,2016-12-06 23:15:19,b'RT @scaleAPI: \xe2\x80\x9cIntroducing our Audio Transcription API\xe2\x80\x9d by @alexandr_wang https://t.co/mdVlTjLA5x'
+806254205698600960,2016-12-06 21:49:16,"b""@rhs @amazonmturk @rainforestqa should've made a shout out to @scaleAPI \xf0\x9f\x99\x83"""
+806180201726033920,2016-12-06 16:55:12,"b""RT @ProductHunt: Transcribe audio clips, videos, and more with Scale's new Audio Transcription API \xf0\x9f\x94\x8a https://t.co/SKCA3had0I by @alexandr_w\xe2\x80\xa6"""
+806064149281157120,2016-12-06 09:14:03,b'@rauchg thanks for the shout out!! Super excited about this one\xf0\x9f\x99\x83'
+805897353198649344,2016-12-05 22:11:16,"b""RT @scaleAPI: We've been nominated by the good folks at @ProductHunt  for the 2016 Community Product of the Year \xf0\x9f\x98\xbb We \xe2\x9d\xa4 you guys!\nhttps://t\xe2\x80\xa6"""
+805834740565569536,2016-12-05 18:02:28,b'@scaleAPI is nominated for the 2016 Community Product of the Year \xf0\x9f\x8e\x89\xf0\x9f\x8e\x89\xf0\x9f\x8e\x89 Give us a vote if you have a chance! https://t.co/XUmHf39tWe'
+805712695362134016,2016-12-05 09:57:30,b'unfortunate that @DeepMindAI and @OpenAI chose the same press cycle. 2 super exciting announcements which all developers should know about'
+805671194565296128,2016-12-05 07:12:36,"b""Wow this is awesome. If I were in school right now, I would be using this for all my projects. Could've tested my B\xe2\x80\xa6 https://t.co/wKlG3kSJCe"""
+804991748371988480,2016-12-03 10:12:43,"b""@daniel_levine @rauchg it's so frustrating working with an early bird! you get 8:30am meetings and can't talk past 10pm \xf0\x9f\x99\x88"""
+802609896298463232,2016-11-26 20:28:05,b'How do I report a JavaScript bug to the @WSJ? \xf0\x9f\xa4\x94 https://t.co/BivvCuU0u7'
+801838177866481664,2016-11-24 17:21:33,b'@juecd_ this made me laugh so hard\xf0\x9f\x98\x82'
+801691898695938049,2016-11-24 07:40:18,"b'Just seen in SF:\nMan says ""ok Google"" into Google Pixel.\nMan says ""ok Google"" 2 more times. \nSighs. Puts pixel into pocket.\nPulls out iPhone'"
+801497479527026688,2016-11-23 18:47:44,"b'@_slinehan makes sense! Have you guys tried outsourcing small pieces of it? Alternatively, some use Scale for QAing their inhouse teams'"
+801490344919478272,2016-11-23 18:19:23,"b""@_slinehan by the way\xe2\x80\x94what does flexport do for its tasks like transcription? Would love to see if there's tasks @scaleAPI could help with"""
+801489936054484993,2016-11-23 18:17:46,"b""@Mazzeo @_slinehan @scaleAPI we're working on a scalable way for customers to train our Scalers, so we can support more complex tasks"""
+801288443724603392,2016-11-23 04:57:06,b'Your move @facebook \xf0\x9f\x99\x83 https://t.co/mh8loS7EPN'
+801192513964941312,2016-11-22 22:35:55,b'RT @scaleAPI: \xe2\x80\x9cContent Moderation with Scale API\xe2\x80\x9d by @lucy_guo https://t.co/KSnBa5qxyl'
+800094457899065345,2016-11-19 21:52:38,b'@sherwinwu bezos is an incredible role model'
+800092392636366849,2016-11-19 21:44:26,"b'RT @HamiltonMusical: This is the statement made by @HamiltonMusical after the performance on November 18, 2016. https://t.co/H2UhXjvWUf'"
+800090501366026240,2016-11-19 21:36:55,b'Saturday inspiration https://t.co/UIyxuReAUD'
+798227400915943424,2016-11-14 18:13:37,"b""@balajis I'm working on the future of work at @scaleAPI (like Sov. Indiv.). Someone said you'd be a great person to chat with\xe2\x80\x94up for coffee?"""
+797935177796157440,2016-11-13 22:52:25,b'@levie amazing tweet \xf0\x9f\x91\x8c\xf0\x9f\x8f\xbc'
+796235836027084801,2016-11-09 06:19:51,b'RT @alooghobi: Have a good cry tonight. Wake up tomorrow and get to work. Fix it. Fix it.'
+796202279351160832,2016-11-09 04:06:30,b'@saranormous \xf0\x9f\x99\x8b'
+795800493620490244,2016-11-08 01:29:57,"b'Sat down with Card IQ, one of our first customers! Thanks @iamclovin \xf0\x9f\x8e\x89 https://t.co/n9eqDMfkmR'"
+793148315344916483,2016-10-31 17:51:09,b'Huge month at @scaleAPI !! Every important metric doubled \xf0\x9f\x8e\x89\xf0\x9f\x8e\x89\xf0\x9f\x8e\x89'
+790955657125965826,2016-10-25 16:38:18,b'RT @scaleAPI: Great write-up about Scale by @gwintrob on his API-company blog GET PUT POST https://t.co/m5X6qUpHom'
+790945691954581505,2016-10-25 15:58:42,b'RT @gwintrob: Just published \xe2\x80\x9cHuman-powered apps with the Scale API\xe2\x80\x9d https://t.co/93ZkPRqpo4'
+789929664542150656,2016-10-22 20:41:22,"b'@MarcBodnick yeah but SV media culture is more aligned around doing things, not saying things. Maybe more people should be doing things'"
+789929044657643521,2016-10-22 20:38:55,"b""@MarcBodnick express opinions on social media + in person. It's true not many are using their media capital"""
+789928626703572992,2016-10-22 20:37:15,b'@MarcBodnick nearly all of SV *is* vocally anti-Trump'
+789568020574154752,2016-10-21 20:44:20,b'RT @scaleAPI: Introducing Our Data Collection Endpoint by @lucy_guo https://t.co/5zt7luv5gl'
+789178119915573248,2016-10-20 18:55:00,b'RT @scaleAPI: How To Use Twitter + Scale To Calculate Brand Equity by @lucy_guo https://t.co/e1VFrrWzRy'
+788830038909038593,2016-10-19 19:51:51,b'Update: @lucy_guo bought this property \xf0\x9f\xa4\x94'
+788821776021098496,2016-10-19 19:19:01,b'@rauchg teach me how to do the same. \xf0\x9f\x98\x9b'
+788795165167144965,2016-10-19 17:33:17,b'RT @scaleAPI: We now have an official Scale API Python Client Library! \xf0\x9f\x8e\x89\xf0\x9f\x8e\x89 https://t.co/WSDm7MMjc8'
+788437937167880192,2016-10-18 17:53:47,b'Goddamnit Apple I need to get somewhere!! Only stagger updating these two!! https://t.co/LwzkGU88jy'
+788120523775483904,2016-10-17 20:52:30,b'RT @scaleAPI: New Feature Alert: Markdown in Task Instructions \xf0\x9f\x8e\x89\xf0\x9f\x8e\x89\xf0\x9f\x8e\x89  https://t.co/aHGJkNSvHW'
+787748237696311296,2016-10-16 20:13:10,b'MIT is a really amazing place. Hard work and genius per capita is ridiculously high'
+786282133132234753,2016-10-12 19:07:23,"b""@ellenchisa let me know if you're free! (Thanks for Twitter intro @vickipeng \xf0\x9f\x98\x8a)"""
+786220802052022272,2016-10-12 15:03:41,"b'Visiting Boston tomorrow \xe2\x80\x94 who wants to meet up? \n\nWarning: By default, I will pitch @scaleAPI to you. \xf0\x9f\x99\x83'"
+785882954891350017,2016-10-11 16:41:12,b'@ilyasu @WSJ wait the tone of the article is really positive/thankful'
+785554930471800832,2016-10-10 18:57:44,"b""A good #startup idea is one that seems better and better as you learn more about the space/incumbents.\n\nMost ideas don't have this quality"""
+785366879233728513,2016-10-10 06:30:30,b'Beautiful beautiful beautiful. 80 year classic. \xe2\x99\xab https://t.co/ZvNRTbKw2V'
+785323319243395072,2016-10-10 03:37:24,b'@rauchg this was on HN today https://t.co/VEnelwpQej'
+784467982881689600,2016-10-07 18:58:36,b'@daniel_levine @sama or just scoring changes and test being more difficult. Way too little data to make a strong judgement'
+784251375022579712,2016-10-07 04:37:53,b'RT @stephenlb: We started #salesforcekiller Open Growth SDK combining APIs @monkeylearn + @clearbit + @PubNub + @scaleAPI + @SendGrid + @tw\xe2\x80\xa6'
+784243251666522112,2016-10-07 04:05:36,b'@maccaw @stephenlb @monkeylearn @clearbit @PubNub @scaleAPI @SendGrid @twilio @yespath not a bad list of companies to be a part of'
+784072522715107328,2016-10-06 16:47:11,b'few things are as gratifying as not getting pooled in UberPOOL'
+783550118171701248,2016-10-05 06:11:20,"b'@daniel_levine @ilyasu that\'s what @scaleAPI is for: ""AI"" that doesn\'t suck.'"
+783548524600360960,2016-10-05 06:05:00,"b""@daniel_levine @ilyasu pretty sure the main reason this stuff doesn't exist is because it would suck. Google's APIs today already suck"""
+783547617192075264,2016-10-05 06:01:24,b'@saranormous \xf0\x9f\x99\x88 US politics is such a \xf0\x9f\x92\xa9show'
+783462241492279296,2016-10-05 00:22:09,b'RT @scaleAPI: Our New Scale API Dashboard https://t.co/zjbxPT0VBI'
+783139391392710656,2016-10-04 02:59:15,"b'While checking houses on Redfin, @lucy_guo: ""OH MY GOD, THIS PLACE IS NEXT TO MCDONALDS""'"
+782317303476039681,2016-10-01 20:32:34,"b'friend told me @sundarpichai has heard of @scaleAPI. If true, that would be really really really cool \xf0\x9f\x98\xac'"
+780668913310851073,2016-09-27 07:22:27,"b""When you UberPOOL home at minight because you're on #startupHours, and you pool with two drunk people hooking up next to you\n\xf0\x9f\x99\x84\xf0\x9f\x98\xa9\xf0\x9f\x99\x88"""
+780109923808059392,2016-09-25 18:21:14,b'I just published \xe2\x80\x9cWhat I wish I had known before YC\xe2\x80\x9d https://t.co/ODNx9pxBwY'
+779135202584989696,2016-09-23 01:48:02,b'RT @scaleAPI: Thanks Daniel for writing an unofficial Ruby Gem for Scale! Check it out and star the repository!\nhttps://t.co/YFK2jctSow'
+778948271603650560,2016-09-22 13:25:14,b'My thoughts on Scale Image Recognition API on @ProductHunt cc @JanAhrend https://t.co/3TtUm1r9bO https://t.co/ioVkKV27kW'
+778709594340110336,2016-09-21 21:36:49,b'great use of @scaleAPI \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 h/t @liveink \nhttps://t.co/xf0Bg2InB6 https://t.co/1aWNnaHPkf'
+778698016496594945,2016-09-21 20:50:49,b'RT @ProductHunt: Scale Bounding Box API: Annotate any image to train ML Algorithms https://t.co/0OOhzvfb78 by @lucy_guo &amp; @alexandr_wang ht\xe2\x80\xa6'
+778654100384681984,2016-09-21 17:56:18,"b'RT @scaleAPI: Scale Image Recognition API: API for image recognition, powered by humans via @justinkan on @ProductHunt https://t.co/Pdsu8Fx\xe2\x80\xa6'"
+778491112445059072,2016-09-21 07:08:39,b'My thoughts on Scale Bounding Box API on @ProductHunt https://t.co/OkpBc3je4I https://t.co/SAS9NxtmoT'
+778387419104108544,2016-09-21 00:16:37,"b""an amazing opportunity\xe2\x80\x94you'll regret not applying https://t.co/qQvgnU6IH4"""
+778336547821105152,2016-09-20 20:54:28,b'RT @scaleAPI: We made an Bounding Box Demo app! Take a look \xf0\x9f\x98\x81 https://t.co/byjI1EdI8N'
+777928143017357313,2016-09-19 17:51:37,b'RT @scaleAPI: Introducing our Bounding Box Endpoint \xf0\x9f\x8e\x89\xf0\x9f\x8e\x89\xf0\x9f\x8e\x89 Play around with it! https://t.co/rvdzXxPlpz'
+773634312562315264,2016-09-07 21:29:28,b'RT @scaleAPI: Thanks @ProductHunt for being an amazing platform for our product launch \xe2\x9d\xa4\xf0\x9f\x8e\x89 https://t.co/oD3ksKDL4l'
+773349962167963648,2016-09-07 02:39:33,"b'Why content moderation is done by humans, and why @scaleAPI is uniquely positioned https://t.co/KTGk8dqZsM'"
+772976677362077696,2016-09-06 01:56:15,b'RT @scaleAPI: New Feature Alert: Task Explorer \xf0\x9f\x8e\x89\xf0\x9f\x8e\x89\xf0\x9f\x8e\x89\nExplore and search through all your Scale tasks with ease. https://t.co/FQZMSbwrKS'
+772547248538341377,2016-09-04 21:29:51,b'@daniel_levine working at any VC backed co? That EV feels very low. I read last year that the EV for VC-backed founders is $1M/yr'
+772524051159855104,2016-09-04 19:57:41,b'At what point will the startup market be saturated\xe2\x80\x94where the EV of starting a VC-backed startup is much less than working at one?'
+771107736389943296,2016-08-31 22:09:45,b'dust settled from an amazing #YCombinator...\nnow to build a business \xf0\x9f\x98\x81 who wants to help?'
+770852215896444928,2016-08-31 05:14:24,b'@ilyasu what if PaaS stands for People as a Service @scaleAPI cc @daniel_levine'
+769615429597745152,2016-08-27 19:19:51,b'RT @randallb: Why YC is successful in two paragraphs. Stumbled across it today. From 2006 / 2009. https://t.co/g836ofLjYd https://t.co/NhwO\xe2\x80\xa6'
+769236770118479872,2016-08-26 18:15:12,b'@SlackHQ @rauchg seeing the same issue! Just submitted a request\xe2\x80\x94hoping to get fixed soon!'
+769221851142696960,2016-08-26 17:15:55,b'Surefire way to win me over: Tweet @scaleAPI responses at me \xf0\x9f\x98\x8d https://t.co/H5RhxzvCAv'
+769219925617487873,2016-08-26 17:08:16,"b'@rhs @scaleAPI got called :) glad you like the API, time sounds great'"
+768931547810377728,2016-08-25 22:02:21,b'@marannelson @claralabs oh good call!! I probably will after my next batch of humanly-scheduled meetings :)'
+768901195947651072,2016-08-25 20:01:45,b'#ycdemoday thoughts: wishing @claralabs gave a YC perk of discounted use the month after DD. Would help their distribution among VCs too \xf0\x9f\xa4\x94'
+768345020113887232,2016-08-24 07:11:42,b'thanks for the follow @levie! Any use cases for @scaleAPI at @BoxHQ \xf0\x9f\x99\x83 #alwaysBeSelling #shameless'
+768294569268039682,2016-08-24 03:51:14,"b""@sai_grsh @scaleAPI AH that wasn't supposed to be released... Good sleuthing :)"""
+768258170837839872,2016-08-24 01:26:36,b'RT @JoshConstine: Top 7 startups from YC S16 Demo Day1 https://t.co/czQcmsuEPe @JoytheApp @FLEXisfun @MentatApp @RaptorMaps @skylightsaero\xe2\x80\xa6'
+768258023726862336,2016-08-24 01:26:01,"b""RT @rrhoover: YC S16 startup, Scale, outsources all the manual stuff https://t.co/QxlUEGhhSM\n\nPing me if you're interested in connecting w/\xe2\x80\xa6"""
+768257711284686849,2016-08-24 01:24:46,b'@rrhoover @msg someone should build this with @scaleAPI \xf0\x9f\x99\x83'
+768117482229862400,2016-08-23 16:07:33,"b'RT @faborio: Y Combinator revealed its latest batch. My favorites: @scaleAPI, @multiplylabs &amp; @startyoshi https://t.co/VYS12hsd1Q'"
+767986879019028480,2016-08-23 07:28:35,b'Sick use of @scaleAPI: Card IQ: Intelligent Follow Up for your Biz Cards https://t.co/BKxvtGhOxO via @alexandrw https://t.co/HLbVVTszij'
+767762257103032320,2016-08-22 16:36:01,b'@saranormous also listen to Solo by Frank!!! Soooo good \xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5'
+767762091289645058,2016-08-22 16:35:21,b'@saranormous oh I pay for both Spotify and Apple Music lol. I use Hype Machine + Soundcloud for discovery. \xf0\x9f\x99\x83 I only use Spotify for social'
+767696640752824321,2016-08-22 12:15:16,b'@AriMNazir Thanks! Just followed you\xe2\x80\x94feel free to DM me'
+767589722323509248,2016-08-22 05:10:25,b'@saranormous no Apple Music? why?'
+767152308413005825,2016-08-21 00:12:17,b'@jtvhk thanks!\xf0\x9f\x9a\x80'
+767143405461700608,2016-08-20 23:36:55,b'gonna b a good afternoon w/ #FrankOcean . \xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5 https://t.co/qcIPB0BP1H'
+767134844430131201,2016-08-20 23:02:54,b'Getting ready for high stakes show and tell \xf0\x9f\x98\x81\xf0\x9f\x99\x84\xf0\x9f\x99\x83 #yc #DemoDay #ycombinator https://t.co/H6ClZJesMq'
+766702956771024896,2016-08-19 18:26:44,b'Figuring out how to optimize FB like -&gt; candidate conversion on hiring fb statuses \xf0\x9f\xa4\x94\n\nBTW @scaleAPI is HIRING!! Email me alex@scaleapi.com'
+766485106798186496,2016-08-19 04:01:04,b'@saranormous @tzhongg you mean all situations? Functional design soo important vs visual design'
+766326133470048256,2016-08-18 17:29:22,b'UberPOOLing from MTV to SF for $23 feels almost dirty... Thank you VCs \xf0\x9f\x98\x8d https://t.co/UkSD0nkYuF'
+766126589637595136,2016-08-18 04:16:27,b'This project is awesome\xe2\x80\x94gonna save a lot of redundant mobile engineering https://t.co/kLKXm3sOMa'
+764861637463412736,2016-08-14 16:29:59,"b'@rrhoover @Genius this song is amazing, listening to it on repeat since Thursday'"
+764352379831451648,2016-08-13 06:46:22,"b""@lucy_guo it's because we spent all of it panicking in the same 30ft by 30 ft space \xf0\x9f\x98\x82\xf0\x9f\x98\xad"""
+764178313254350848,2016-08-12 19:14:42,b'@ilyasu if a small office is cheap... @scaleAPI \xf0\x9f\x98\x81'
+763786776561332224,2016-08-11 17:18:52,b'tragic news: it was taken down \xf0\x9f\x98\xa2'
+763782135517945856,2016-08-11 17:00:26,b'porter x madeon collab made my day \xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5 https://t.co/euvs82u4sf'
+763618127447928832,2016-08-11 06:08:43,b'@lucy_guo @daniel_levine lol also any ops managers looking to build the future of outsourcing \xf0\x9f\x98\x81'
+763616435776000000,2016-08-11 06:02:00,b'Tfw you realize @scaleAPI is a crazy girlfriend \xf0\x9f\x98\x82...\xf0\x9f\x98\xad #startuplife https://t.co/64uDTDpKik'
+763614964951027712,2016-08-11 05:56:09,b'@lucy_guo amen'
+763419860135141376,2016-08-10 17:00:52,"b""RT @Kasparov63: Trump joking about someone shooting Hillary is sick &amp; dangerous. It's how unbalanced people are inspired to murder. It triv\xe2\x80\xa6"""
+762865951905685506,2016-08-09 04:19:50,"b'Insta stories would be WAY better if it had creation tools of Snapchat (lenses, bitmoji, etc.). Only advantage rn is network.'"
+762579384679092231,2016-08-08 09:21:08,b'When ur Uber drivers give you life advice and u feel validated af'
+762143581041598464,2016-08-07 04:29:24,b'@jtvhk yea 20+ minutes added to my arrival because my spoiler put wrong location \xf0\x9f\x98\xa1'
+762075745409572865,2016-08-06 23:59:51,b'I. Fucking. Hate. Uberpool. Fuck.'
+761823729705897984,2016-08-06 07:18:25,"b'@saranormous yeah VSCO kills here I think, at least in my demo'"
+761822689363308544,2016-08-06 07:14:17,b'@imslavko template stash (search on Product Hunt)'
+760404550771539968,2016-08-02 09:19:07,b'@Grossiaux gross'
+760387876387377152,2016-08-02 08:12:51,b'Yesterday was the best day of my life \xf0\x9f\x91\x8c\xf0\x9f\x8f\xbc\xf0\x9f\x91\x8c\xf0\x9f\x8f\xbc\xf0\x9f\x99\x8c\xf0\x9f\x8f\xbc\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5'
+759186539947503616,2016-07-30 00:39:10,"b'RT @Work_Bench: Congrats to our company of the week in the Enterprise Weekly #114, @scaleAPI! https://t.co/KiuIgH9naX cc @alexandr_wang @lu\xe2\x80\xa6'"
+759123221232832512,2016-07-29 20:27:34,b'@Work_Bench @scaleAPI @lucy_guo What an honor\xe2\x80\x94thank you so much!! Let us know if you need anything \xf0\x9f\xa4\x97'
+758005018792386560,2016-07-26 18:24:14,b'RT @ycombinator: Scale (YC S16) lets companies outsource their human-powered tasks with one line of code https://t.co/I0jcegRyKN'
+758000861209518080,2016-07-26 18:07:42,b'RT @scaleAPI: Thanks @ycombinator for the awesome write up! \xe2\x9d\xa4 you guys! https://t.co/ChCF9daj2A https://t.co/4KXdpt3Cw0'
+757999149463638016,2016-07-26 18:00:54,b'RT @ycombinator: Scale (YC S16) is an API for human labor https://t.co/qd1ceGSstj https://t.co/TqiT6m72uR'
+757998898786865152,2016-07-26 17:59:55,"b'@alexchuang72 @scaleAPI wow, thank you \xf0\x9f\x99\x8f\xf0\x9f\x99\x8f You can tell them all to reach out to us directly if they have questions hello@scaleapi.com'"
+757778784258895872,2016-07-26 03:25:15,b'RT @scaleAPI: Thanks for doing a write-up on us @techcrunch! https://t.co/GdtjUO5MpO'
+757674033596858368,2016-07-25 20:29:01,b'@scaleAPI is on @TechCrunch \xf0\x9f\x8e\x89\xf0\x9f\x8e\x89\xf0\x9f\x8e\x89 https://t.co/nMRTcN04we'
+756218666815856641,2016-07-21 20:05:54,b'@stubailo @dhaivatpoincare woah what I know dhaivat. R u his mentor? \xf0\x9f\x91\x80'
+756005470314176512,2016-07-21 05:58:44,b'Just crossed 20k API calls at @ScaleAPI 3 weeks since launch! \xf0\x9f\x98\x81\xf0\x9f\x8e\x89\xf0\x9f\x8e\x89\nWho wants to help us get to 100k? #scaleAPI'
+753463957042507777,2016-07-14 05:39:40,b'Spending $200/mo on Uber... This definitely seems cheaper than owning a car.'
+752734592872751104,2016-07-12 05:21:26,"b""@lucy_guo you're a millennial"""
+752705396876255232,2016-07-12 03:25:25,"b'Just moderated a video of 6 year olds saying ""f*ck you"" as bad conduct. Basically the internet version of ""Get off my lawn!"" #scaleAPI'"
+751196140524015616,2016-07-07 23:28:11,"b""I'm glad #PokemonGO is tricking Twitter bots into thinking I'm a workout enthusiast https://t.co/sBPJZn8ccT"""
+751195141419917312,2016-07-07 23:24:12,"b'Me: ""I\'m going to the gym""\n@lucy_guo: ""oh good for you being healthy""\nMe: ""uh I meant the Pokemon gym. I\'m level 5 now""\n#PokemonGO'"
+751189157817425920,2016-07-07 23:00:26,b'@lucy_guo you tweeted this in the middle of our meeting smh'
+749898122734628864,2016-07-04 09:30:19,b'RT @ChristianFaure: Scale Introduces the API for Human Labor. #Prol\xc3\xa9tarisationDigitale  https://t.co/fiv9ptb3px'
+749897800154882048,2016-07-04 09:29:02,b'RT @haichenw: Damn this is cool: Scale : Get human tasks done with just one line of code. via @kwdinc on @ProductHunt https://t.co/h1Sfkt2B\xe2\x80\xa6'
+749498133097222144,2016-07-03 07:00:54,b'#Scale just hit 1k upvotes in @ProductHunt!! \xf0\x9f\x8e\x89\xf0\x9f\x8e\x89\xf0\x9f\x8e\x89 https://t.co/DSGUiCiK6T'
+748769213511135232,2016-07-01 06:44:26,b'RT @_SITEUP_: Scale \xe2\x80\x93 \xf0\x9f\x9a\x80 Website by @alexandr_wang #live  https://t.co/wteJITTdWV https://t.co/srRd1dgBSC'
+748432160944582656,2016-06-30 08:25:07,"b""@Alexintosh @ProductHunt Yup! I'm a co-founder at Scale! :)"""
+748411456043909120,2016-06-30 07:02:50,"b""@JonthanJacob81 @ProductHunt Thanks for writing that out! It's extremely useful feedback for us."""
+748252715344527361,2016-06-29 20:32:03,b'RT @ProductHunt: An API for Human Labor Get human tasks done (like transcription) with just one line of code. https://t.co/XDnMETlUVw https\xe2\x80\xa6'
+748252397814714368,2016-06-29 20:30:48,"b'RT @saranormous: Amazing how easy it is to build anything now, including w/ human-labor! Cool concept from @alexandr_wang @lucy_guo https:/\xe2\x80\xa6'"
+748245986665861121,2016-06-29 20:05:19,"b'I am keeping this screenshot forever, @ProductHunt \xf0\x9f\x98\x81\xf0\x9f\x8e\x89\xf0\x9f\x93\xb2 #scaleAPI https://t.co/Xd7883yj9W https://t.co/KG83miWC5J'"
+748205202533122048,2016-06-29 17:23:15,b'My thoughts on Scale  on @ProductHunt cc @icco https://t.co/oX2QYHUIAH https://t.co/vkpTA3uWPP'
+748190313550733312,2016-06-29 16:24:06,b'RT @johnnyrodgersis: An API for human labo(u)r: https://t.co/UCe7hoSPX9 Pretty compelling as a proof-of-concept. A friendlier on-demand mec\xe2\x80\xa6'
+748190038320521217,2016-06-29 16:23:00,"b""RT @ilyasu: APIs are eating the world. Here's one to make a human do a thing on demand. https://t.co/sq6kdu1kd3"""
+748173390477828097,2016-06-29 15:16:51,b'RT @ProductHunt: An API for Human Labor Get human tasks done (like transcription) with just one line of code. https://t.co/XDnMETlUVw https\xe2\x80\xa6'
+748161181785923584,2016-06-29 14:28:20,b'My thoughts on Scale  on @ProductHunt cc @amckinnis https://t.co/ENJuUkWjD5 https://t.co/Foa2BuYBU7'
+748160567718739968,2016-06-29 14:25:54,b'RT @basgras: The on-demand economy gets an API. https://t.co/VmraT7ljaT'
+748156881433165824,2016-06-29 14:11:15,b'My thoughts on Scale  on @ProductHunt cc @rrhoover @lucy_guo https://t.co/CNYYHaP94U https://t.co/DHlsooAxgv'
+748154972538306560,2016-06-29 14:03:40,b'My thoughts on Scale  on @ProductHunt cc @Klajdi_kL https://t.co/aYPj8JCWAK https://t.co/fkURPsoZT4'
+748154189784752128,2016-06-29 14:00:33,b'My thoughts on Scale  on @ProductHunt cc @NaweG https://t.co/esq1TcSXQs https://t.co/VHtFA5YcB6'
+748153827833057281,2016-06-29 13:59:07,b'My thoughts on Scale  on @ProductHunt cc @15Greenberg https://t.co/ldn1IuXqKm https://t.co/KRVktV4Z6S'
+748153539264929792,2016-06-29 13:57:58,b'My thoughts on Scale  on @ProductHunt cc @piyushnp https://t.co/IAqCFe8Rzo https://t.co/Wl81QQ5Gkv'
+748152872026705921,2016-06-29 13:55:19,b'My thoughts on Scale  on @ProductHunt cc @philcampbell @lucy_guo @lumbadoja @kwdinc https://t.co/jGYGaZCkWV https://t.co/zktGtYNuS5'
+748150164745924609,2016-06-29 13:44:33,"b""RT @rrhoover: TFW you see an idea that's so obviously needed:\n\nAn API for humans: https://t.co/QxlUEFZH1e by @alexandrw @lucy_guo https://t\xe2\x80\xa6"""
+748149873866772485,2016-06-29 13:43:24,b'RT @ProductHuntHi: @alexandr_wang Scale  just reached 100 upvotes. \xf0\x9f\x98\xbb https://t.co/hclBgkCK8R https://t.co/XoOpEKIhmw'
+748097827541180416,2016-06-29 10:16:35,b'My thoughts on Scale  on @ProductHunt https://t.co/YyGpg4SXKW https://t.co/LvAKpmMgRH'
+748083326175502340,2016-06-29 09:18:58,b'@ProductHuntHi @ProductHunt @bentossell Thanks! \xf0\x9f\x98\x81\xf0\x9f\x98\x81'
+748081354236100608,2016-06-29 09:11:08,b'My thoughts on Scale  on @ProductHunt cc @kwdinc https://t.co/Almb280HMr https://t.co/9ii1GlGH7q'
+748072245491183616,2016-06-29 08:34:56,"b""@ProductHuntHi @ProductHunt @kwdinc  it's not showing up, how should we go about fixing it?"""
+748072040779784192,2016-06-29 08:34:07,"b'@kwdinc @ProductHunt Thanks for hunting us! Just curious, how did you find out about us?'"
+748061208708845568,2016-06-29 07:51:05,b'My thoughts on Scale  on @ProductHunt cc @lucy_guo https://t.co/rvnGGd8M2T https://t.co/sHvZLat2GF'
+748009521436573696,2016-06-29 04:25:41,b'Great marketing today from @justinkan for https://t.co/myeXbsHjp6 \xf0\x9f\x91\x8c\xf0\x9f\x91\x8c\xf0\x9f\x91\x8c https://t.co/ColpkwDT1t'
+747152418245222400,2016-06-26 19:39:52,b'@saranormous are you doing to Boston? \xf0\x9f\x98\x81\xf0\x9f\x98\x81'
+746417942468825088,2016-06-24 19:01:19,b'@saranormous @SiliconHBO LOL \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+744747251302490113,2016-06-20 04:22:36,b'@saranormous \xf0\x9f\x98\xa2\xf0\x9f\x98\xa2\xf0\x9f\x98\xa2'
+743707376646184961,2016-06-17 07:30:30,b'@metalvixenn would you pay a little more per appointment to make sure surprise medical bills NEVER happen to you again?'
+743706977797185538,2016-06-17 07:28:55,"b""@larry_levitt would you pay a little more for your appointments to ensure that you aren't hit with surprise medical bills again?"""
+742779967570743296,2016-06-14 18:05:19,"b""Sign up for Ava \xf0\x9f\x98\x81 we'll book your doctors and dentist appointments for you! https://t.co/oVPXRBQO6C"""
+740627962341429248,2016-06-08 19:34:01,"b""RT @ava_health: Too real sometimes. Don't let this happen to you: https://t.co/rqCARWjCHl ; invite code: FRIENDS1738 https://t.co/fGZ4luJ7K7"""
+739984069950197760,2016-06-07 00:55:25,"b'lmao product hunt clone ""hunted"" us https://t.co/DKUgNfl43r'"
+739665445666463747,2016-06-06 03:49:19,b'@saranormous saving up for a Hoverboard at the moment \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+739656326595280896,2016-06-06 03:13:05,b'@saranormous shameless'
+738619237112025089,2016-06-03 06:32:03,b'Why does apple make you restart the app submission process whenever you re-upload a build? \xf0\x9f\x98\xad\xf0\x9f\x98\xb2 #frustrated'
+737861255780806656,2016-06-01 04:20:06,"b""@saranormous I don't get it \xf0\x9f\x99\x88"""
+737851968329121792,2016-06-01 03:43:12,b'@lucy_guo lmao i do need a mouse'
+737300497070063616,2016-05-30 15:11:51,b'@lucy_guo @ava_health \xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8cbig stuff on the way'
+737192624017133568,2016-05-30 08:03:12,"b""RT @lucy_guo: Submitted @ava_health to the app store with @alexandr_wang. V1.0 coming soon y'all -- https://t.co/nnASlNZpR8 ;) https://t.co\xe2\x80\xa6"""
+735956464171261954,2016-05-26 22:11:09,b'@lucy_guo @saranormous also: TRU \xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c \xf0\x9f\x99\x8f\xf0\x9f\x99\x8f\xf0\x9f\x99\x8f'
+735956288803209221,2016-05-26 22:10:27,"b""@lucy_guo @saranormous don't u need a . at the beginning to show this in feeds?"""
+734623379391696897,2016-05-23 05:53:56,b'RT @nafpaktitism: 20-30% of all dissertations completed at Russian unis since the fall of the USSR were purchased on the black market. http\xe2\x80\xa6'
+734234489656741889,2016-05-22 04:08:38,b'This week: \n- arrive in SF 7pm Monday\n- take bus SF -&gt; LA midnight - 7am Tuesday\n- meeting 1pm\n- Drive back to SF Tuesday evening\n\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xb2'
+734233005393252353,2016-05-22 04:02:44,b'@lucy_guo tfti'
+734232957578158081,2016-05-22 04:02:33,b'@lucy_guo are you a real person'
+734232914825641985,2016-05-22 04:02:22,b'@lucy_guo is this real'
+732986469405560832,2016-05-18 17:29:27,b'@lucy_guo go with an investor \xf0\x9f\x98\x82'
+732986350199287808,2016-05-18 17:28:58,b'@adamdangelo his wife is one of my favorite professors!'
+732985915312857088,2016-05-18 17:27:15,b'@jmohsenin they let the developers do that lol'
+725355791843090432,2016-04-27 16:07:51,"b""RT @davidjbland: I've analyzed the Silicon Valley Bot Startup trend and created a handy venn diagram to help explain it. https://t.co/FTPg4\xe2\x80\xa6"""
+721010044653932544,2016-04-15 16:19:25,b'@lucy_guo were u drunk when u posted thjs'
+720631027484520448,2016-04-14 15:13:20,b'@sama thanks for coming! Still want to debate academia vs industry for AI\xe2\x80\x94all the smartest ppl I know are in/going to academia.'
+719424540175179776,2016-04-11 07:19:11,b'@lazyset Kanye West'
+715972365377777664,2016-04-01 18:41:28,b'@jmohsenin I think u mean TLOP on soundcloud go'
+712486916461989889,2016-03-23 03:51:32,b'@lucy_guo why is he so obsessed with pizza'
+712104355147591680,2016-03-22 02:31:23,b'When is Kasich gonna gtfo \xf0\x9f\x98\xb3 #Kasich'
+711364149415006208,2016-03-20 01:30:04,b'@lucy_guo pull it together woman. Order some postmates and veg out'
+709082575965323265,2016-03-13 18:23:54,b'Good shit\xf0\x9f\x91\x8c\xf0\x9f\x91\x8cListening to Opia - Falling (Wheat Gin Redo) on @hypem https://t.co/jIDvb2yRbW'
+707997699019284480,2016-03-10 18:33:00,"b'RT @crunchbase: Series A YoY - Investment dollars are up, counts down for Jan &amp; Feb 2016 per CrunchBase https://t.co/r5cOYfXoQN'"
+707997571109818369,2016-03-10 18:32:29,b'@jmohsenin @QuipSupport I have faced the same issue over and over. I started using the web client instead \xf0\x9f\x98\x95'
+706163859065860096,2016-03-05 17:05:58,b'Wishing my life were a Woody Allen movie right about now #WoodyAllen'
+705139888719568897,2016-03-02 21:17:04,"b'You know a music app gets you when it lets you filter between ""Only Remixes"" and ""No Remixes"" #hypemachine'"
+704693258023206912,2016-03-01 15:42:19,"b'School is such a different mindset than working. Rate of learning is much higher, but doing nothing productive to world at large #school'"
+704370235915239424,2016-02-29 18:18:45,b'The best way to motivate someone is to belittle them #motivation #lifeadvice'
+704329775528148993,2016-02-29 15:37:58,"b'Incentive structure for VCs are kinda fucked. The narrative of taking big risks on startups is cute, but not really true #startups #vc'"
+704328497666334722,2016-02-29 15:32:54,"b""I want to be able to trade on the net worth of celebrities. If I went long on Chris Pratt, I'd be mad rich right now"""
+703969904052011008,2016-02-28 15:47:58,b'Nothing contributes more to my happiness than getting enough sleep'
+703769793933869061,2016-02-28 02:32:48,"b'""Life isn\'t fair"" is some of the best advice that straight up isn\'t true #lifeadvice #thoughts'"
+703766042921701376,2016-02-28 02:17:54,b'Consumer tech: what problems can be solved by CRUD apps and random forests? Answer: a lot apparently #startups #tech'
+703763922378043392,2016-02-28 02:09:29,b'Having crushes is the most salient example of a prisoners dilemma. Tinder is such an elegant solution #gametheory #startups #tinder'
+703284644272275457,2016-02-26 18:25:00,b'RT @mrry: I got up early this morning to push Distributed TensorFlow to GitHub: https://t.co/3g4yDDr6PK'
+703284501766660096,2016-02-26 18:24:26,b'RT @BillKristol: Trump-Christie 2016!\nSlogan: Turning America into Atlantic City.'
+703284352252289025,2016-02-26 18:23:50,b'RT @levie: Someone wrote a bug into America.js and now everything is starting to break in really unpredictable ways.'
+702896074969718784,2016-02-25 16:40:58,b'Twitter is tiring as fuck to keep up with. I basically have I be readying fortune cookie length sentences the whole day'
+702211929629204481,2016-02-23 19:22:25,b'RT @TechCrunch: Bill Gates clarifies on Apple vs. FBI statement https://t.co/Wv3IbywAyS https://t.co/inPZ1t2xEj'
+702163975631458304,2016-02-23 16:11:52,b'@MarcBodnick wanna bet?'
+702156427972976640,2016-02-23 15:41:52,b'I just realized YikYak is Twitter for teens. We go to YikYak when we have random funny ideas we want people to see \xf0\x9f\x98\x82\xf0\x9f\x98\x82 #YikYak #socialmedia'
+701870873318326272,2016-02-22 20:47:10,"b""@bananana21 @katieyowyow it's ok we've all been there"""
+701833699797688320,2016-02-22 18:19:28,b'Biggest barrier to comprehending lecture these days is getting confused in lecture by phones and laptops #college'
+701784350128472064,2016-02-22 15:03:22,b'All of the new social apps suck. The last good one was YikYak. Maybe text/photo/video based social networks are saturated \xf0\x9f\x98\x93 #socialnetworks'
+701127889853485056,2016-02-20 19:34:49,b'@lucy_guo omg \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 at some point one of them is gonna lock u down \xf0\x9f\x98\x89 (btw what app is that?)'
+701119005487210500,2016-02-20 18:59:31,"b'News abt HS/college activities is always phrased as ""kids are doing X"". I don\'t wanna call it ageist, but it alienates a big audience #Rant'"
+701107612037857280,2016-02-20 18:14:15,b'Check out my new thing. Would love to hear any thoughts on product/space/idea. https://t.co/rgeqoFijBw'
+701105964242620417,2016-02-20 18:07:42,"b'@ProductHunt @mcuban The Fountainhead does not belong on any ""must read"" list ever'"
+701105042821148672,2016-02-20 18:04:02,"b'@AriX @WorkflowHQ in particular, it seems very easy to create compelling statistics of the insane impact of encryption outlaw on our GDP'"
+701104774394081280,2016-02-20 18:02:58,"b'@AriX @WorkflowHQ read your tweets, agree it is bad to conflate w/encryption. Encryption being outlawed seems incredibly unlikely regardless'"
+701103617940582400,2016-02-20 17:58:23,b'@rrhoover @justinkan someone should make a distribution platform for snapchat stories you want to be permanent'
+701103033611067392,2016-02-20 17:56:03,b'@stubailo my vote is the smirk emoji in the middle \xf0\x9f\x98\x8f\xf0\x9f\x98\x8f\xf0\x9f\x98\x8f'
+701102545431896064,2016-02-20 17:54:07,b'@MarcBodnick in response to GIPHY? Gifs are probably a fad\xe2\x80\x94once internet is faster there will be much better ways to spam memes'
+701102119038881792,2016-02-20 17:52:25,"b""@katieyowyow @bananana21 I'm just trying to give some quick tips! Say what the link is about"""
+701100466772561924,2016-02-20 17:45:51,b'@bananana21 you could improve your Twitter game a little'
+701095159258341376,2016-02-20 17:24:46,b'Social media challenge come at me \xf0\x9f\x99\x8c\xf0\x9f\x91\xb8\xf0\x9f\x8f\xbb\xf0\x9f\x91\x91 #ritc2016 #mitt https://t.co/qPIhHfAgvw'
+700895862780727297,2016-02-20 04:12:50,b'What type of content does well on Twitter? Still somewhat confused about the product lol \xf0\x9f\x98\xad\xf0\x9f\x98\x90\xf0\x9f\x98\xb1'
+700828979704553472,2016-02-19 23:47:04,"b""RT @AriX: This is an absolute disaster. This isn't about encryption. But if Apple loses this battle, people will think it was. https://t.co\xe2\x80\xa6"""
+700477784020357120,2016-02-19 00:31:32,b'@ProductHunt @katesegrin @AlexandrW thanks so much guys \xf0\x9f\x99\x8f helped me a lot today \xf0\x9f\x98\x98\xf0\x9f\x98\x98'
+700468554903085057,2016-02-18 23:54:52,b'Hunted on @ProductHunt. Would love any feedback on the idea/space/problem. Tweet me.  https://t.co/s9FvaZqflo'
+699418383545143300,2016-02-16 02:21:51,b'Ava finds you the best experts with just one text. Join the waitlist. https://t.co/rQk7izsNTe'
+698243291633086465,2016-02-12 20:32:28,b'RT @QuoraSessions: Spotify founder &amp; CEO Daniel Ek (@eldsjal) -- taking questions. https://t.co/DRCyfaME1Y https://t.co/srnZRbkooY'
+698243255402631170,2016-02-12 20:32:19,b'RT @QuoraSessions: Stanford Gravitational Waves researcher Peter Graham now taking questions! \n\nhttps://t.co/dvOiWknKrg https://t.co/vYdO7S\xe2\x80\xa6'
+694998601974546438,2016-02-03 21:39:13,"b""My new thing. Soft launch in SF and LA. Ping me if you want details. It's lit \xf0\x9f\x94\xa5\xf0\x9f\x94\xa5 #listed https://t.co/okHtm9uINR"""
+694997583157133312,2016-02-03 21:35:10,b'@lucy_guo @zeplin_io lol the actual sketch files are better redlines :P'
+694996981576548352,2016-02-03 21:32:47,"b'RT @lucy_guo: We have Ruby Skye, 1015 Folsom, Bootie, Temple, Audio, Monarch, and tons more. Message/tweet at me to learn more. https://t.c\xe2\x80\xa6'"
+692086148131348484,2016-01-26 20:46:10,b'RT @QuoraSessions: .@lenadunham (!) hosting a Quora Session on February 18. https://t.co/VmpCsmdn5i https://t.co/i6j1tYuIVR'
+691305100212576256,2016-01-24 17:02:34,"b""Today's staff picks \xf0\x9f\x98\xb3\xf0\x9f\xa4\x94\xf0\x9f\x99\x8e @wzchen @Quora since when is this a thing? I like it... But also confused. https://t.co/o8RvLXB3kR"""
+681938416993349632,2015-12-29 20:42:43,b'Sooo cool. I want this hoverboard for next Christmas :P https://t.co/fVEqs1HmpJ'
+680512137282760704,2015-12-25 22:15:11,"b""This Christmas I'm thankful for online poker and unemployment \xf0\x9f\x99\x8c\xf0\x9f\x99\x8f"""
+671793637374717952,2015-12-01 20:50:59,b'RT @Quora: .@HillaryClinton answers: Is Obamacare helping or hurting the average U.S. citizen?\n\nhttps://t.co/aWJM4IHpUm https://t.co/UEWwrp\xe2\x80\xa6'
+671792405138509824,2015-12-01 20:46:05,"b'RT @HillaryClinton: Hillary just joined @Quora! Check out her answers on health care, Planned Parenthood, and being a grandma: https://t.co\xe2\x80\xa6'"
+668900562688192512,2015-11-23 21:14:56,b'RT @Quora: Taking @TheHungerGames &amp; other questions for producer @ninajacobson. https://t.co/AiWG0r7ls1 https://t.co/dm3TGilO0U'
+667458416139464706,2015-11-19 21:44:21,b'huge https://t.co/YOkvd9vDmk'
+667455677594542081,2015-11-19 21:33:28,b'RT @Quora: Now Taking Questions for Writing Sessions. https://t.co/4UWakPUuRv https://t.co/RBZwBkBDi3'
+666366861152526336,2015-11-16 21:26:54,"b'@Quora Sessions launched! This is one of my babies, congrats on launching it team \xf0\x9f\x92\xa5\xf0\x9f\x92\xa5 https://t.co/RZKpn6ENIm'"
+663173871059636224,2015-11-08 01:59:06,b'@gnarmac yeah and they give you discounts sometimes'
+663147692495912960,2015-11-08 00:15:05,b'@gnarmac @gmc you basically pay for nothing. Items are at the same cost as you would find them online'
+662534845365645313,2015-11-06 07:39:51,"b""@operator is magical. Absolutely crazy that it's built by such a small team. What a stunning experience."""
+661579670220103680,2015-11-03 16:24:19,b'RT @Inc: This company has a $10 billion valuation; but we remember when... https://t.co/DOdt3T35iv @ilanmochari'
+661020423161647108,2015-11-02 03:22:04,b'RT @FarbodSaraf: U.S. companies founded by 1st/2nd gen immigrants:\n\n1 Apple\n2 Google\n3 IBM\n4 Oracle\n5 Facebook\n6 Amazon\n7 QCOM\n8 EMC\n9 eBay\xe2\x80\xa6'
+654029058448203782,2015-10-13 20:20:53,b'RT @nad_pod: Excited to be headed to @ghc for the next few days with some of the amazing @Quora women. Stop by (Booth 913) and say hi!'
+653342174361329665,2015-10-11 22:51:27,"b""RT @moskov: This was the crowd favorite slide at my talk this morning at #startat15. Hopefully we'll have the whole video soon. http://t.co\xe2\x80\xa6"""
+652912717439860736,2015-10-10 18:24:57,b'RT @adamdangelo: Using Quora To Engage Your Target Audience: http://t.co/KJhnj914ED'
+652630205073387521,2015-10-09 23:42:20,b'RT @Avicii: My @Quora answer to How can I share my music with Avicii? http://t.co/F8t9Iciv0X'
+652567929645613058,2015-10-09 19:34:53,b'RT @Quora: Tim Bergling (@Avicii) answering questions about Stories. http://t.co/kT1Ka4Sx5F'
+652312710802186240,2015-10-09 02:40:44,b'RT @Quora: The Ask Bar -- a new way to ask and search. https://t.co/zdTaUyTI0f http://t.co/wpO3mCgnBM'
+650537403766185984,2015-10-04 05:06:18,b'Tinder in NYC is amazing'
+646018591746359296,2015-09-21 17:50:09,"b""RT @Avicii: My @Quora answer to What are Avicii's favorite movies? http://t.co/nLkZaVqA7R"""
+645128238013022209,2015-09-19 06:52:12,b'Tweeting to tweet #turnt #lol #hangs #141A'
+643820673421471744,2015-09-15 16:16:24,"b""Holy shit... @Quora answer on what it's like to kill someone? http://t.co/wCUAczjTyp"""
+642197501148274688,2015-09-11 04:46:30,"b'RT @WhiteHouse: ""Under this agreement, Iran is never allowed to build a nuclear weapon"" \xe2\x80\x94@POTUS: http://t.co/3lm4r4Au4u #IranDeal http://t.\xe2\x80\xa6'"
+642062383683358721,2015-09-10 19:49:35,b'RT @TheIranDeal: President Obama answers questions about the #IranDeal on @Quora. Read them here \xe2\x86\x92 http://t.co/U3Cbx1lOOs'
+642054641686052864,2015-09-10 19:18:50,b'RT @WhiteHouse: .@POTUS just answered your #IranDeal questions on @Quora.\nRead his responses here \xe2\x86\x92 http://t.co/xzDjSgnZ4y http://t.co/eouh\xe2\x80\xa6'
+642054523054333952,2015-09-10 19:18:21,"b""RT @Quora: .@BarackObama answers: Can Iran's leaders be trusted? https://t.co/2TtrPFGxbq"""
+642054494717652992,2015-09-10 19:18:14,"b'RT @Quora: ""Under this agreement, Iran is never allowed to build a nuclear weapon, period."" -- @POTUS: https://t.co/p8EMJn6mWk'"
+637649654092558336,2015-08-29 15:34:59,b'Bye for now...\n#farewell #quora @ Quora https://t.co/xRymJjMwWp'
+634610673419460608,2015-08-21 06:19:09,b'It was just a reflektor. \n\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\n#reflektor #sf #sutrobaths #\xe2\x98\x80\xef\xb8\x8f @ Sutro Baths San Francisco https://t.co/NsDPQuBriM'
+633275977049595905,2015-08-17 13:55:33,"b'RT @earthquakesSF: A 4.2 magnitude earthquake occurred 0.62mi N of Piedmont, California. Details: http://t.co/P1d4dcibA8 Map: http://t.co/h\xe2\x80\xa6'"
+631988621382320128,2015-08-14 00:40:03,b'RT @Quora: Most Viewed Writers \xe2\x80\x93 a new way to find the best Quora writers across thousands of topics: https://t.co/5CouqZ44JQ'
+631528756801310720,2015-08-12 18:12:43,"b'Sun is shining, the weather is sweet // Makes you wanna move your dancing feet\n#nature #VSCOcam\xe2\x80\xa6 https://t.co/4VFFGL20f6'"
+631141516732297216,2015-08-11 16:33:58,"b""Outside Lands was such \xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5 can't stop listening to the songs from it https://t.co/d4QDum2OVL"""
+628273375178141696,2015-08-03 18:37:00,"b'""Do no harm but take no shit."" Words to live by \xf0\x9f\x99\x8c'"
+626835196839596032,2015-07-30 19:22:11,b'RT @stripe: Peruse their whiteboards so that you may know their API architecture.\n\nhttps://t.co/205arVHfiK'
+624056676178612225,2015-07-23 03:21:20,b'RT @nad_pod: Awesome to have a packed house for our annual intern open house. @adamdangelo doing Q&amp;A on all things @Quora #IOH2015 http://t\xe2\x80\xa6'
+624051679432937472,2015-07-23 03:01:29,b'Q&amp;A with @adamdangelo at @Quora #Intern open house! http://t.co/EawQAoZfhl'
+624049220299923456,2015-07-23 02:51:43,b'RT @santoshrau: Quora Intern Open House - @alexandr_wang talking about Site Performance http://t.co/t23CJfmPzJ'
+622609954306830336,2015-07-19 03:32:35,"b'""Fuck California, you made me boring."" California by EMA on @AppleMusic. https://t.co/8yk6dMqAG2 http://t.co/X0xX693WDM'"
+622190297385058304,2015-07-17 23:45:01,b'RT @instagram: Happy #WorldEmojiDay! http://t.co/Izq5gqy3p0 #\xf0\x9f\x92\xaf #\xf0\x9f\x91\x8d'
+622109910621270016,2015-07-17 18:25:35,"b'Insightful @Quora answer that showed up on @Forbes. Spot on analysis to ""What\'s So Great About Apple Music?"" http://t.co/fNYZSvs9Z1'"
+621481785797402624,2015-07-16 00:49:38,"b""@Inc @Quora This is awesome! It's such an honor!"""
+621481137458655232,2015-07-16 00:47:04,b'Thanks for featuring me! https://t.co/wkNhVE5pY6'
+620983022305673216,2015-07-14 15:47:44,"b""Wow this song is awesome. Best song I've heard this month. Work Song by Hozier @AppleMusic. https://t.co/42MMF73IWc http://t.co/n6A96jBcqL"""
+620308666424684545,2015-07-12 19:08:05,"b'This alley is my new fave hangout. \n\xe2\x9b\xaa\xef\xb8\x8f\xf0\x9f\x8f\xab\n#murals #mission #sf #VSCOcam @ Valencia Street, San Francisco https://t.co/xVvTQA5A3k'"
+619758088896131073,2015-07-11 06:40:17,"b""RT @Quora: What is it like to work with Inside Out's director Pete Docter? Answer on @Quora by @clgood http://t.co/WiuYyk16N4"""
+619634128175017984,2015-07-10 22:27:43,"b""This is f*cking awesome: Vint Cerf's answer on @Quora by to Who invented the Internet? http://t.co/IcLJFqFSMM #Quora #internet"""
+619273514139258880,2015-07-09 22:34:45,b'Great answer on @Quora by @ev to Why did Twitter put their HQ in the Tenderloin neighborhood of San Francisco? http://t.co/5zKdsp9XOJ'
+619163250979016709,2015-07-09 15:16:37,"b""What It's Like To Be A Teen Working In Silicon Valley http://t.co/TjQrsQWZ89 via @HuffPostTech"""
+618472710956412928,2015-07-07 17:32:39,b'Fortune syndicated my @Quora answer too! via @FortuneMagazine http://t.co/hlJEJOVuoJ'
+618097043358117888,2015-07-06 16:39:53,b'This playlist is f*cking on point. Class of 2014 indie on @AppleMusic. https://t.co/X83bX5CH7v http://t.co/g598gOBWDe'
+617766711048015873,2015-07-05 18:47:16,"b'Loving Apple music so far, but hate the bugs. Listen to MADE IN HAIGHT by Alexandr on @AppleMusic. https://t.co/6n5lca58kk'"
+617372988657156096,2015-07-04 16:42:45,b'The memories with this album: Illinois by Sufjan Stevens released 10 years ago https://t.co/HCkgAqvyqN'
+616729032864890880,2015-07-02 22:03:54,b'Time tweeted out my article! https://t.co/wRdLM5Y50b'
+616475701642801152,2015-07-02 05:17:15,b'@SyalRicha @Quora glad you liked it!'
+616472673565040640,2015-07-02 05:05:13,b'My @Quora answer was just published to @TIME!!! http://t.co/y4BLq2Zmfj via @TIMEIdeas'
+614811287143354368,2015-06-27 15:03:28,b'RT @NickKristof: The White House tonight is illuminated in rainbow colors to honor and celebrate marriage equality. Bravo! http://t.co/wwz1\xe2\x80\xa6'
+614610973094100992,2015-06-27 01:47:29,"b""Check out @Quora's rainbow logo for #Pride2015! Huge thanks to @hollygressley for designing it \xf0\x9f\x92\x9a\xf0\x9f\x92\x9b\xe2\x9d\xa4\xef\xb8\x8f\xf0\x9f\x92\x9c\xf0\x9f\x92\x99\xf0\x9f\x92\x97"""
+614592394898468864,2015-06-27 00:33:40,b'RT @Quora: Answer on @Quora by @vardley to What was it like at the Supreme Court after the marriage equality judgment? http://t.co/CSBX30Cj\xe2\x80\xa6'
+612664574794440704,2015-06-21 16:53:12,"b""Ah, need my morning coffee #VSCOcam @ Farley's https://t.co/oyAtWTiz4W"""
+612664528837476353,2015-06-21 16:53:01,"b'""You be the moon I\'ll be the earth, and when we burst start over o darling. Begin again."" - Purity\xe2\x80\xa6 https://t.co/AahWM6jQny'"
+609120846834216960,2015-06-11 22:11:41,b'Answer on @Quora by Business Insider to What are all the Quora answers that have been featured at Business Insider? http://t.co/FQd5W5mj9g'
+607205151611355137,2015-06-06 15:19:24,b'RT @BillGates: What many people may not realize\xe2\x80\x93America is facing a shortage of college graduates: http://t.co/G05iDPQT7Q http://t.co/oYej3\xe2\x80\xa6'
+606916861851222017,2015-06-05 20:13:50,"b'RT @TechCrunch: In Partnership With Postmates, Apple Expands Same-Day Delivery To Its Web Store http://t.co/fdVghDoUii by @sarahintampa @sa\xe2\x80\xa6'"
+605897451078193152,2015-06-03 00:43:04,"b""Wow, didn't know about a lot of this. @franklinveaux answering if #Monsanto is evil on @Quora http://t.co/7OIGH3otzx"""
+605762105627803648,2015-06-02 15:45:15,"b""RT @MIT_CSAIL: Watch MIT's robot cheetah jump over obstacles! http://t.co/MooKfM7LWA http://t.co/3VtpLivAWB"""
+605474824220073984,2015-06-01 20:43:41,b'RT @TechCrunch: Windows 10 is available July 29 http://t.co/FjTLvPHJuB http://t.co/KowfIWx7cL'
+605133047994982401,2015-05-31 22:05:36,"b""Just saw #tomorrowland and it's awesome! Fully agree with the review on @Quora by @RobertFrost01 http://t.co/kAjaJ4nhRC"""
+604399801011036162,2015-05-29 21:31:56,b'New @Quora Topic FAQs enabled! http://t.co/8i7Mk7sQEF'
+604189365414174720,2015-05-29 07:35:44,"b""@StevenWalling don't make me blush \xe2\x98\xba\xef\xb8\x8f"""
+604081184990076928,2015-05-29 00:25:52,b'RT @ForeignAffairs: Foreign Affairs editor Gideon Rose answers @quora question about Modi\xe2\x80\x99s leadership: http://t.co/Yzgg8gPNA8'
+604010216389091329,2015-05-28 19:43:52,b'Trick to getting free swag at tech events: be absolutely shameless #velocityconf'
+603887213017964544,2015-05-28 11:35:05,"b""My @Quora answer to What's it like to be a teen working in Silicon Valley? http://t.co/TbJISX1ytD"""
+603311772859248640,2015-05-26 21:28:30,b'Post on @Quora by @xinrandom: Introducing Topic FAQs http://t.co/fp8Eqo1eEn'
+603282757679120384,2015-05-26 19:33:12,b'RT @Quora: Introducing Topic FAQs on Quora: https://t.co/YqZPiflzvC'
+603144151140413441,2015-05-26 10:22:26,"b""RT @MIT_CSAIL: What's the most popular programming language? Nobody seems to agree (see graph vs. @Quora): http://t.co/ecttpjOv2s http://t.\xe2\x80\xa6"""
+601876629326028802,2015-05-22 22:25:45,b'My @Quora answer to What is PHHHOTO? http://t.co/2th8ZyHKJ1'
+601498661407707137,2015-05-21 21:23:50,"b"".@charlierose Can you answer on @Quora: Who was the most challenging interviewee in Charlie Rose's broadcasting care\xe2\x80\xa6 http://t.co/7B8AuPjb1L"""
+600347272488955905,2015-05-18 17:08:38,b'RT @Slate: Was Tywin Lannister an evil man? Via @quora: http://t.co/iTbgKsT6h3 #GameOfThrones http://t.co/HqRZ6oYjij'
+599106714814676992,2015-05-15 06:59:06,b'.@taylorswift13 Can you answer on @Quora: How can I meet Taylor Swift? http://t.co/HS73In9KDM'
+598248813711761408,2015-05-12 22:10:06,b'My @Quora answer to How do I delete a video on PHHHOTO? http://t.co/LEPaEPDKYf'
+598238370532233217,2015-05-12 21:28:36,b'Are you on PHHHOTO? Follow me!! :D http://t.co/guq0wL4dPs'
+596728605415112704,2015-05-08 17:29:20,"b""@wzchen thanks!!! It's like we're in a crowded elevator and having a loud conversation with each other!!!"""
+596725820552388608,2015-05-08 17:18:16,b'Just used my nose to unlock my phone!! #iphone #nose #touchid #iphone6'
+596174943156445184,2015-05-07 04:49:17,b'RT @kitchenettekat: That time someone asked if they should work at @Zenefits on Quora and thad their offer publicly rescinded by the CEO ht\xe2\x80\xa6'
+594204028709404672,2015-05-01 18:17:34,b'RT @6: Answer on @Quora by John Christopher to Did Edward Snowden break the law? http://t.co/o10YL1XBjG'
+584183192804007937,2015-04-04 02:38:21,b'My @Quora answer to Is it harder to get lessons as a cello player than a piano player? http://t.co/voGpBmUdHb'
+584181961968738304,2015-04-04 02:33:27,b'My @Quora answer to Can you make six figures as a software engineer without a college degree? http://t.co/C6pDGsFNGB'
+584180794530390016,2015-04-04 02:28:49,b'My @Quora answer to If you make low six figures as a software engineer is it going to hurt you/prevent you from maki\xe2\x80\xa6 http://t.co/UD9YcMDCRj'
+583509232688857090,2015-04-02 06:00:16,b'RT @adamdangelo: New on Quora: Stats on Profile http://t.co/lRePw25hIJ'
+583094108459286528,2015-04-01 02:30:43,"b'My @Quora answer to To what extent do people who take gap years between high school and college feel some ""stigma"" f\xe2\x80\xa6 http://t.co/wKWRiXN3r0'"
+580443173589245953,2015-03-24 18:56:51,b'My @Quora answer to How do I train your ear for better intonation on the violin? http://t.co/z4yQZmjX1I'
+216361960667754498,2012-06-23 02:48:05,b'I love Dropbox because it gives me cloud storage and an easy way to share files http://t.co/2Ik1T9uA'
